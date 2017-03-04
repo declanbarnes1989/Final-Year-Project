@@ -23,37 +23,28 @@ library(plotly)
 library(grid)
 
 ###################################
+
 #Connect to MySQL using credentials
 con <- dbConnect(MySQL(), user="disabilitydb", password="disability1989_", dbname="disabilitydb", host="mysql3.gear.host")
 
-#Set directory
-setwd("/Users/declanbarnes/Documents/FinalYearProject/DataSets/")
-#Read in CSV file
-csvFile <- read.csv("DisabledSurvey.csv")
-
 #SQL Query to find the amount of disabled people(Male & Female) in each county in Ireland.
-query <- dbSendQuery(con, "Select Sex,County,Amount From disabilitydb.disabledsurvey where Category = 'Total persons with a disability'; ")
+query <- dbSendQuery(con, "Select * From disabilitydb.healthcentres;")
 
 #fetch data, number of rows=1822
-data <- fetch(query, n=1822)
+centres <- fetch(query, n=1822)
 
 #checj that the fetchhas gotten everything
 isFinished <- dbHasCompleted(query)
 
 #convert data into a data-frame
-data.frame(data)
+data.frame(centres)
 
 #check data
-data
+centres
 
-#Export data to MySQL database as a table called BothSexesStats
-dbWriteTable(con, value = data, name = "BothSexesStats", append = TRUE )
 ##################################
 
 #Using ggmap to plot current HSE support centres
-
-#read in data
-centres <- read.csv("healthcentres.csv", header=TRUE)
 
 #subset data to only include Leinster
 leinster <- subset(centres, County =="Wicklow" | County =="Wexford" | County =="Dublin" | County =="Kildare" 
@@ -63,7 +54,7 @@ leinster <- subset(centres, County =="Wicklow" | County =="Wexford" | County =="
 
 #Create data frame
 data = data.frame(
-  ID = as.numeric(leinster$ID),
+  ID = as.numeric(leinster$healthcentre_id),
   longitude = as.numeric(leinster$long_xcord),
   latitude = as.numeric(leinster$lat_ycord)
 )
