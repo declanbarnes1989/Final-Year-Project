@@ -1,5 +1,5 @@
 #Set working directory
-setwd("/Users/declanbarnes/Documents/FinalYearProject/DataSets/")
+setwd("/Users/declanbarnes/Desktop/")
 
 #Libraries
 library(HistogramTools)
@@ -9,6 +9,7 @@ library(stats)
 library(C50)
 library(ggmap)
 library(ggplot2)
+library(raster)
 library(gmodels)
 library(googleVis)
 library(knitr)
@@ -21,7 +22,7 @@ library(plyr)
 library(rworldmap)
 library(plotly)
 library(grid)
-
+library(leaflet)
 ###################################
 
 #Connect to MySQL using credentials
@@ -59,38 +60,21 @@ data = data.frame(
   latitude = as.numeric(leinster$lat_ycord)
 )
 
-# create circles data frame from the centers data frame
-make_circles <- function(centers, radius, nPoints = 100){
-  # centers: the data frame of centers with ID
-  # radius: radius measured in kilometer
-  #
-  meanLat <- mean(centers$latitude)
-  # length per longitude changes with lattitude, so need correction
-  radiusLon <- radius /111 / cos(meanLat/57.3) 
-  radiusLat <- radius / 111
-  circleDF <- data.frame(ID = rep(centers$ID, each = nPoints))
-  angle <- seq(0,2*pi,length.out = nPoints)
+
+#Plot current centre locations
+m <- leaflet() %>%
+  addTiles() %>% 
+  setView(-7.5050, 53.2000, zoom = 8) %>% 
   
-  circleDF$lon <- unlist(lapply(centers$longitude, function(x) x + radiusLon * cos(angle)))
-  circleDF$lat <- unlist(lapply(centers$latitude, function(x) x + radiusLat * sin(angle)))
-  return(circleDF)
-}
+  addCircleMarkers(data = leinster, lng = ~long_xcord, 
+      lat = ~lat_ycord, radius=.5, color="black") %>% 
 
-# here is the data frame for all circles
-myCircles <- make_circles(data, 0.1)
+  addCircles(data = leinster, lng = ~long_xcord, 
+      lat = ~lat_ycord, popup = leinster$Address,
+      radius = 3218.69, fillOpacity = 0.3, #3218.69 = 2 miles
+      color = 'black', fillColor = 'red',weight = 1, label=leinster$`Service name`) %>% 
+  
+  addLegend("bottomright", colors= "red", labels="Current HSE Support Centres",
+             title="Location: Leinster,Ireland")
 
-# getting the map
-island <- get_map(location = c(lon = mean(leinster$long_xcord), lat = mean(leinster$lat_ycord)), zoom = 8,
-                     source="google",maptype="roadmap")
-#show map
-islandMap <- ggmap(island)
-
-
-RL = geom_point(aes(x = longitude, y = latitude), data = data, color = "#ff0000")
-
-islandMap + RL + 
-  scale_x_continuous(limits = c(-8.5, -5), expand = c(0, 0)) + 
-  scale_y_continuous(limits = c(52.1, 54.2), expand = c(0, 0)) +
-  ########### add circles
-  geom_point(aes(x = lon, y = lat, group = ID), data = myCircles, size = 10, shape = 1,  color = "darkblue")
-
+m  # Print the map
