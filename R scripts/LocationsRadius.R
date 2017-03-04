@@ -1,5 +1,5 @@
 #Set working directory
-setwd("/Users/declanbarnes/Desktop/")
+setwd("/Users/declanbarnes/Documents/FinalYearProject")
 
 #Libraries
 library(HistogramTools)
