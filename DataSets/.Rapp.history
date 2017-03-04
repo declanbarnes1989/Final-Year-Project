@@ -1,0 +1,48 @@
+install.packages("RMySQL")#
+library(RMySQL)#
+library(rworldmap)#
+library("ggmap")#
+library("ggplot2")#
+#
+#Connect to MySQL using credentials#
+con <- dbConnect(MySQL(), user="disabilitydb", password="disability1989_", dbname="disabilitydb", host="mysql3.gear.host")#
+#
+#Set directory#
+setwd("/Users/declanbarnes/Documents/FinalYearProject/DataSets/")#
+#Read in CSV file#
+#csvFile <- read.csv("healthcentres.csv")#
+#
+#SQL Query to find the amount of disabled people(Male & Female) in each county in Ireland.#
+query <- dbSendQuery(con, "Select long_xcord,lat_ycord From disabilitydb.healthcentres; ")#
+#
+#fetch data, number of rows=1822#
+data <- fetch(query, n=1822)#
+#
+#checj that the fetchhas gotten everything#
+isFinished <- dbHasCompleted(query)#
+#
+#convert data into a data-frame#
+data.frame(data)#
+#
+#check data#
+data#
+#
+# creating a sample data.frame with your lat/lon points#
+lon <-data$long_xcord#
+lat <- data$lat_ycord#
+df <- as.data.frame(cbind(lon,lat))#
+#
+# getting the map#
+mapgilbert <- get_map(location = c(lon = mean(df$lon), lat = mean(df$lat)), zoom = 7,#
+                      maptype = "satellite", scale = 1)#
+#
+# plotting the map with some points on it#
+ggmap(mapgilbert) +#
+  geom_point(data = df, aes(x = lon, y = lat, fill = "red", alpha = 0.8), size = 1, shape = 21) +#
+  guides(fill=FALSE, alpha=FALSE, size=FALSE)#
+#
+#Clear the results#
+dbClearResult(query)#
+#
+#disconnect from MySQL#
+dbDisconnect(con)

@@ -1,0 +1,814 @@
+ID,Category,Service name,Alternative name,Address,County,long_xcord,lat_ycord,Weighting
+1,Health Centre,Lusk,Lusk,"Main Street, Lusk, Co. Dublin.",Dublin,-6.165896608,53.52664019,1
+2,Health Centre,Blackrock Primary Care Centre,,"Floor 1, SKEHARD ROAD, CORK",Cork,-8.4228965,51.88837533,1
+3,Health Centre,Ballingarry,Ballingarry,"Callan Road, Ballingarry, Thurles, Co. Tipperary.",Tipperary,-7.541066457,52.58621319,1
+4,Health Centre,Carnew,,"Hse, Health Centre, Wool Green, Co. Wicklow",Wicklow,-6.504397945,52.71108932,1
+5,Health Centre,Dowra,Dowra,"Drumnafinnila, Dowra, Co. Leitrim",Cavan,-8.015754507,54.19139736,1
+6,Health Centre,Clonakilty,Clonakilty,"Primary Care Centre Hospital Grounds, Scartagh, Clonakilty, Co. Cork.",Cork,-8.876376089,51.63047732,1
+7,Health Centre,Hartstown,Hartstown,"Cherryfield Lawns, Hartstown, Dublin 15",Dublin,-6.421118041,53.39236622,1
+8,Health Centre,The Ballagh,The Ballagh,"Ballymurry, The Ballagh, Enniscorthy, Co. Wexford.",Wexford,-6.423529621,52.48024543,1
+9,Health Centre,Milltown,Milltown,"Bridge Street, Milltown, Co. Kerry",Kerry,-9.714189915,52.14374092,1
+10,Health Centre,Butler Centre,Butler Centre,"Butler Community Centre, Saint John's Park, Waterford.",Waterford,-7.108356282,52.24114218,1
+11,Health Centre,Carigeen,Carigeen,"Church Hall, Carigeen, Co. Kilkenny.",Kilkenny,-7.215976462,52.2705836,1
+12,Health Centre,Ferrybank,Ferrybank,"Community Hall, Ferrybank, Waterford.",Waterford,-7.099292897,52.26716741,1
+13,Health Centre,Kill,Kill,"Community Hall, Kill, Co. Waterford.",Waterford,-7.338318771,52.17716558,1
+14,Health Centre,Passage East,Passage East,"Community Hall, Passage East, Co. Waterford.",Waterford,-6.971684438,52.23940622,1
+15,Health Centre,Emly,Emly,"Galtee View, Emly, Co. Tipperary.",Tipperary,-8.348773593,52.46276074,1
+16,Health Centre,Kilsheelan,Kilsheelan,"Chapel Road, Kilsheelan, Clonmel, Co. Tipperary.",Tipperary,-7.58108214,52.36309838,1
+17,Health Centre,Ashbourne,Ashbourne,"Frederick Street, Ashbourne, Co. Meath.",Meath,-6.402688647,53.51390936,1
+18,Health Centre,Millbrook Lawns,Millbrook Lawns,"St. Dominic's Road, Tallaght, Dublin 24.",Dublin,-6.355062194,53.28471229,1
+19,Health Centre,Ballymahon,Ballymahon,"Ballymahon, Co. Longford.",Longford,-7.766677601,53.56509614,1
+20,Health Centre,Muirhevnamore,Muirhevnamore,"Muirhevnamore, Co. Louth.",Louth,-6.380236511,53.99100699,1
+21,Health Centre,Oylegate,Oylegate,"Oylegate, Enniscorthy, Co. Wexford.",Wexford,-6.527972774,52.42434945,1
+22,Health Centre,Rosslare,Rosslare,"St. Martin's Road, Rosslare Harbour, Co. Wexford.",Wexford,-6.338671119,52.24986025,1
+23,Health Centre,Arva,Arva,"Arva, Co, Cavan",Cavan,-7.577112988,53.92014947,1
+24,Health Centre,Oldcastle,Oldcastle,"Oldcastle, Co. Meath.",Meath,-7.160269527,53.7691506,1
+25,Health Centre,Dillons Cross,Dillons Cross,"Harrington Square, Ballyhooly Road, Cork.",Cork,-8.456888688,51.90826636,1
+26,Health Centre,Rockchapel,Rockchapel,"Community Hall, Rockchapel, Co. Cork.",Cork,-9.147702982,52.28826442,1
+27,Health Centre,Paulstown,Paulstown,"Gowran Road, Paulstown, Co. Kilkenny.",Kilkenny,-7.021762421,52.68207583,1
+28,Health Centre,Stradbally,Stradbally,"Credit Union Building, Stradbally, Co. Waterford.",Waterford,-7.459411415,52.13229512,1
+29,Health Centre,Ballymacarbry,Ballymacarbry,"Four Mile Water, Clonmel, Co. Tipperary.",Waterford,-7.752280699,52.28001978,1
+30,Health Centre,Ballysloe,Ballysloe,"Ballysloe, Gortnahoe, Co. Tipperary.",Tipperary,-7.607706494,52.63734768,1
+31,Health Centre,Bansha,Bansha,"Main Street, Bansha, Co. Tipperary.",Tipperary,-8.062190921,52.44647391,1
+32,Health Centre,Cahir,Cahir,"Pearse Street, Cahir, Co. Tipperary.",Tipperary,-7.920545344,52.37421638,1
+33,Health Centre,Cappawhite,Cappawhite,"Cappawhite, Co. Tipperary.",Tipperary,-8.163574477,52.58204202,1
+34,Health Centre,Carrick on Suir,Carrick on Suir,"Waterford Road, Carrick on Suir, Co. Tipperary.",Tipperary,-7.403739177,52.34779972,1
+35,Health Centre,Cashel,Cashel,"Our Lady's Hospital, The Green, Cashel, Co. Tipperary.",Tipperary,-7.887060607,52.51405873,1
+36,Health Centre,Clogheen,Clogheen,"Convent Road, Clogheen, Co. Tipperary.",Tipperary,-7.992330157,52.27255361,1
+37,Health Centre,Clonea,Clonea,"Clodagh Drive, Clonea Power, Carrick, Co. Tipperary.",Waterford,-7.445817911,52.28196656,1
+38,Health Centre,Dundrum,Dundrum,"Dundrum, Co. Tipperary.",Tipperary,-8.044745319,52.56040108,1
+39,Health Centre,Mullinahone,Mullinahone,"Carrick Steet, Mullinahone, Co. Tipperary.",Tipperary,-7.503604343,52.51282981,1
+40,Health Centre,New Inn,New Inn,"New Inn, Cashel, Co. Tipperary.",Tipperary,-7.877951088,52.4407282,1
+41,Health Centre,Newcastle,Newcastle,"Newcastle, Clonmel, Co. Tipperary.",Tipperary,-7.809849603,52.27225398,1
+42,Health Centre,Tipperary,Tipperary,"St. Vincent's Hospital, Tipperary Town, Co. Tipperary.",Tipperary,-8.157054644,52.46718442,1
+43,Health Centre,Adamstown,Adamstown,"Adamstown, New Ross, Co. Wexford.",Wexford,-6.716031937,52.3925284,1
+44,Health Centre,Ballindaggin,Ballindaggin,"Coolycarney, Ballindaggin, Enniscorthy, Co. Wexford.",Wexford,-6.679701768,52.56755773,1
+45,Health Centre,Ballycullane,Ballycullane,"Ballycullane, New Ross, Co. Wexford.",Wexford,-6.834619174,52.26740469,1
+46,Health Centre,Bannow,Bannow,"Bannow, Duncormick, Co. Wexford.",Wexford,-6.703001903,52.24437636,1
+47,Health Centre,Blackwater,Blackwater,Blackwater Co. Wexford,Wexford,-6.347477143,52.44618389,1
+48,Health Centre,Bree,Bree,"Bree, Enniscorthy, Co. Wexford.",Wexford,-6.63198261,52.42414356,1
+49,Health Centre,Bridgetown,Bridgetown,"Bridgetown, Co. Wexford.",Wexford,-6.553289706,52.23231874,1
+50,Health Centre,Bunclody,Bunclody,"Mill Road, Bunclody, Enniscorthy, Co. Wexford.",Wexford,-6.65634804,52.65091587,1
+51,Health Centre,Camolin,Camolin,"Camolin, Enniscorthy, Co. Wexford.",Wexford,-6.42138482,52.61840993,1
+52,Health Centre,Campile,Campile,"Ballykeeroge, Campile, New Ross, Co. Wexford.",Wexford,-6.945255449,52.29177796,1
+53,Health Centre,Castlebridge,Castlebridge,"Castlebridge, Co. Wexford.",Wexford,-6.450120477,52.38099679,1
+54,Health Centre,Clonroche,Clonroche,"Clonroche, Enniscorthy, Co. Wexford.",Wexford,-6.63200008,52.42411583,1
+55,Health Centre,Enniscorthy,Enniscorthy,"Millpark Road, Enniscorthy, Co. Wexford.",Wexford,-6.566557808,52.49891214,1
+56,Health Centre,Ferns,Ferns,"Ferns, Enniscorthy, Co. Wexfrod.",Wexford,-6.503463467,52.59132579,1
+57,Health Centre,Gorey,Gorey,"Gorey, Co. Wexford.",Wexford,-6.300017977,52.67482933,1
+58,Health Centre,Taghmon,Taghmon,"Main Street, Taghmon, Co. Wexford.",Wexford,-6.650911712,52.32241786,1
+59,Health Centre,Wexford,Wexford,"County Clinic, Grogans Road, Wexford",Wexford,-6.464412992,52.33500659,1
+60,Health Centre,Abbeyknockmoy,Abbeyknockmoy,"Culliagh South, Abbeyknockmoy, Tuam, Co. Galway.",Galway,-8.754885478,53.43384634,1
+61,Health Centre,Ahascragh,Ahascragh,"Chapel Street, Ahascragh, Co. Galway",Galway,-8.330845226,53.39577956,1
+62,Health Centre,Ardrahan,Ardrahan,"Ardrahan, Co. Galway.",Galway,-8.804646175,53.15547836,1
+63,Health Centre,Athenry,Athenry,"New Line, Athenry, Co. Galway.",Galway,-8.747495215,53.30294895,1
+64,Health Centre,Aughrim,Aughrim,"Aughrim, Ballinasloe, Co. Galway.",Galway,-8.317134502,53.30320765,1
+65,Health Centre,Ballygar,Ballygar,"Ballygar, Co. Galway.",Galway,-8.32814155,53.52198131,1
+66,Health Centre,Caltra,Caltra,"Caltra, Ballinasloe, Co. Galway.",Galway,-8.438717297,53.43496079,1
+67,Health Centre,Clifden,Clifden,"Hospital Road, Clifden, Co. Galway.",Galway,-10.01666086,53.48963579,1
+68,Health Centre,Corrandulla,Corrandulla,"Corrandulla, Co. Galway.",Galway,-8.993407432,53.3980844,1
+69,Health Centre,Craughwell,Craughwell,"Killora, Craughwell, Co. Galway.",Galway,-8.732405055,53.22661232,1
+70,Health Centre,Dunmore,Dunmore,"The Square, Dunmore, Co. Galway.",Galway,-8.74401753,53.61690935,1
+71,Health Centre,Glenamaddy,Glenamaddy,"Kilkerrin Road, Glenamaddy, Ballinasloe, Co. Galway.",Galway,-8.560256626,53.60493748,1
+72,Health Centre,Gort,Gort,"Ennis Road, Gort, Co. Galway.",Galway,-8.813762835,53.06249565,1
+73,Health Centre,Gorteeney,Gorteeney,"Gorteeney, Woodford, Loughrea, Co. Galway.",Galway,-8.362176575,53.01940566,1
+74,Health Centre,Headford,Headford,"Galway Road, Headford, Co. Galway.",Galway,-9.107068496,53.46838355,1
+75,Health Centre,Kilconnell,Kilconnell,"Kilconnell, Ballinasloe, Co. Galway.",Galway,-8.397722293,53.33271062,1
+76,Health Centre,Killimor,Killimor,"Killimor, Ballinasloe, Co. Galway.",Galway,-8.293330459,53.1661025,1
+77,Health Centre,Kiltormer,Kiltormer,"Mount Prospect, Kiltormer, Co. Galway.",Galway,-8.265477328,53.23451897,1
+78,Health Centre,Lackagh,Lackagh,"Lackaghmore, Turloughmore, Athenry, Co. Galway",Galway,-8.893417143,53.36898862,1
+79,Health Centre,Laurencetown,Laurencetown,"Laurencetown, Ballinasloe, Co. Galway.",Galway,-8.181797846,53.2359877,1
+80,Health Centre,Leenane,Leenane,"Derraheeda, Leenane, Co. Galway.",Galway,-9.691795998,53.59469001,1
+81,Health Centre,Liscune,Liscune,"Liscune Lower, Ballymacward, Co. Galway.",Galway,-8.466874456,53.36492071,1
+82,Health Centre,Mervue,Mervue,"Michael Collins Road, Mervue, Galway.",Galway,-9.016291959,53.28115805,1
+83,Health Centre,Milltown,Milltown,"Milltown, Tuam, Co. Galway.",Galway,-8.896761935,53.61103318,1
+84,Health Centre,Monivea,Monivea,"Monivea, Athenry, Co. Galway.",Galway,-8.70384728,53.37456065,1
+85,Health Centre,Mountbellew,Mountbellew,"College Road, Mountbellew, Co. Galway.",Galway,-8.496497931,53.46870302,1
+86,Health Centre,Oranmore,Oranmore,"Dublin Road, Oranmore, Co. Galway.",Galway,-8.922159945,53.27070515,1
+87,Health Centre,Oughterard,Oughterard,"Lemon Field, Oughterard, Co. Galway.",Galway,-9.317329392,53.42807449,1
+88,Health Centre,Portumna,Portumna,"St. Brigids Road, Portumna, Co. Galway.",Galway,-8.223715631,53.09896177,1
+89,Health Centre,Renvyle,Renvyle,"Tully More, Renvyle, Co. Galway.",Galway,-9.975149159,53.59613809,1
+90,Health Centre,Shantalla,Shantalla,"25 Newcastle Road, Galway.",Galway,-9.065933792,53.27466818,1
+91,Health Centre,Tuam,Tuam,"Vicar Street, Tuam, Co. Galway.",Galway,-8.853047155,53.51200394,1
+92,Health Centre,Tynagh,Tynagh,"Tynagh, Loughrea, Co. Galway.",Galway,-8.373213386,53.1499077,1
+93,Health Centre,Williamstown,Williamstown,"Ballyroe, Williamstown, Castlerea, Co. Galway",Galway,-8.572281953,53.67930124,1
+94,Health Centre,Woodford,Woodford,"Woodford, Loughrea, Co. Galway.",Galway,-8.403461047,53.05337606,1
+95,Health Centre,Balla,Balla,"Ballyrourke, Balla, Co. Mayo.",Mayo,-9.126639949,53.80988248,1
+96,Health Centre,Ballina,Ballina,"Mercy Road, Ballina, Co. Mayo.",Mayo,-9.1662159,54.11376407,1
+97,Health Centre,Ballina,Ballina,"Moy Valley, Cathedral Road, Ballina, County Mayo",Mayo,-9.150473807,54.11344135,1
+98,Health Centre,Ballindine,Ballindine,"Main Street, Ballindine, Co. Mayo.",Mayo,-8.958780824,53.6715933,1
+99,Health Centre,Ballinrobe,Ballinrobe,"Kilmaine Road, Ballinrobe, Co. Mayo.",Mayo,-9.218225856,53.61693556,1
+100,Health Centre,Ballintubber,Ballintubber,"Community Centre, Ballintubber, Claremorris, Co. Mayo.",Mayo,-9.305120789,53.75817492,1
+101,Health Centre,Ballycastle,Ballycastle,"Ballycastle, Co. Mayo.",Mayo,-9.359585424,54.27697882,1
+102,Health Centre,Ballycroy,Ballycroy,"Cross Hill, Ballycroy, Co. Mayo.",Mayo,-9.825990581,54.02424425,1
+103,Health Centre,Ballyhaunis,Ballyhaunis,"Upper Main Street, Ballyhaunis, Co. Mayo.",Mayo,-8.770909853,53.7645637,1
+104,Health Centre,Ballyvary,Ballyvary,"Ballyvary, Castlebar, Co. Mayo.",Mayo,-9.150662657,53.89503118,1
+105,Health Centre,Bangor Erris,Bangor Erris,"Main Street, Bangor Erris, Co. Mayo.",Mayo,-9.739098186,54.14442142,1
+106,Health Centre,Charlestown,Charlestown,"Ballagh Street, Charlestown, Co. Mayo.",Mayo,-8.79166438,53.96372831,1
+107,Health Centre,Clare Island,Clare Island,"Capnagower, Clare Island, Co. Mayo.",Mayo,-9.95170233,53.8030118,1
+108,Health Centre,Claremorris,Claremorris,"Knock Road, Claremorris, Co. Mayo.",Mayo,-8.995824528,53.72461397,1
+109,Health Centre,Cong,Cong,"Cong, Co. Mayo.",Mayo,-9.270217615,53.54100988,1
+110,Health Centre,Castlebar,Castlebar,"H.S.E., Westport Road, Castlebar, Co. Mayo.",Mayo,-9.303060005,53.85293738,1
+111,Health Centre,Crossmolina,Crossmolina,"Erris Street, Crossmolina, Co. Mayo.",Mayo,-9.324540028,54.09909759,1
+112,Health Centre,Foxford,Foxford,"Dispensary Road, Foxford, Co. Mayo.",Mayo,-9.107234397,53.98032124,1
+113,Health Centre,Hollymount,Hollymount,"Hollymount, Co. Mayo.",Mayo,-9.117939463,53.65733149,1
+114,Health Centre,Inishturk,Inishturk,"The Harbour, Inishturk Island, Co. Mayo.",Mayo,-10.09465274,53.70548713,1
+115,Health Centre,Kilkelly,Kilkelly,"Ballaghdareen Road, Kilkelly, Co. Mayo.",Mayo,-8.844857175,53.87312049,1
+116,Health Centre,Killala,Killala,"Killala, Co. Mayo.",Mayo,-9.215272861,54.20995006,1
+117,Health Centre,Kilmovee,Kilmovee,"Kilmovee, Co. Mayo.",Mayo,-8.687771622,53.89037169,1
+118,Health Centre,Kiltimagh,Kiltimagh,"Chapel Street, Kiltimagh, Co. Mayo.",Mayo,-9.001925397,53.84642039,1
+119,Health Centre,Rathmines,Rathmines,"36 Upper Rathmines Road, Dublin 6.",Dublin,-6.265002364,53.32066487,1
+120,Health Centre,Rathfarnham,Rathfarnham,"Dispensary Road, off Grange Road, Rathfarnham, Dublin 14.",Dublin,-6.280942624,53.29310559,1
+121,Health Centre,Brookfield,Brookfield,"Rossfield Avenue, Tallaght, Dublin 24.",Dublin,-6.40439097,53.28837664,1
+122,Health Centre,Killinarden,Killinarden,"Killinarden, Tallaght, Dublin 24.",Dublin,-6.379522295,53.27633378,1
+123,Health Centre,Mary Mercer,Mary Mercer,"Fortunestown Road, Jobstown, Tallaght, Dublin 24.",Dublin,-6.400230712,53.2786645,1
+124,Health Centre,Louisburgh,Louisburgh,"Caher, Louisburgh, Co. Mayo.",Mayo,-9.814762994,53.76181165,1
+125,Health Centre,Newport,Newport,"Newport, Co. Mayo.",Mayo,-9.545422607,53.88345129,1
+126,Health Centre,Shrule,Shrule,"Dalgan Road, Shrule, Co. Mayo.",Mayo,-9.087787411,53.52265267,1
+127,Health Centre,Swinford,Swinford,"Aras Attracta, Park Road, Swinford, Co. Mayo.",Mayo,-8.952712116,53.93639052,1
+128,Health Centre,Westport,Westport,"St. Mary's Crescent, Westport, Co. Mayo.",Mayo,-9.522587299,53.80147448,1
+129,Health Centre,Arigna,Arigna,"Derrinisky, Arigna, Co. Roscommon.",Roscommon,-8.106996207,54.07873553,1
+130,Health Centre,Ballaghaderreen,Ballaghaderreen,"Station Road, Ballaghaderreen, Co. Roscommon.",Roscommon,-8.579321704,53.8996788,1
+131,Health Centre,Ballinlough,Ballinlough,"Srah, Ballinlough, Castlerea, Co. Roscommon.",Roscommon,-8.639068124,53.74244727,1
+132,Health Centre,Limekiln Lane,Limekiln Lane,"Whitehall Road West, Walkinstown, Dublin 12.",Dublin,-6.326141329,53.30949969,1
+133,Health Centre,Rowlagh,Rowlagh,"Rowlagh, Clondalkin, Dublin 22.",Dublin,-6.396828264,53.34426648,1
+134,Health Centre,Boot Road,Boot Road,"Boot Road, Clondalkin, Dublin 22.",Dublin,-6.396206748,53.31671954,1
+135,Health Centre,Rathcoole,Rathcoole,"Main Street, Rathcoole, Co. Dublin.",Dublin,-6.463970844,53.28149306,1
+136,Health Centre,Athy,Athy,"7 Woodstock Street, Athy, Co. Kildare.",Kildare,-6.991534227,52.9946287,1
+137,Health Centre,Ballitore,Ballitore,"Main Street, Ballitore, Co. Kildare.",Kildare,-6.815411111,53.00951261,1
+138,Health Centre,Ballymore Eustace,Ballymore Eustace,"Chapel Street, Ballymore Eustace, Co. Kildare.",Kildare,-6.615788376,53.13241063,1
+139,Health Centre,Baltinglas,Baltinglas,"Belan Street, Baltinglas, Co. Wicklow.",Wicklow,-6.711282653,52.94058133,1
+140,Health Centre,Castledermot,Castledermot,"Main Street, Castledermot, Co. Kildare.",Kildare,-6.836733715,52.91453053,1
+141,Health Centre,Celbridge,Celbridge,"Maynooth Road, Celbridge, Co. Kildare.",Kildare,-6.5446663,53.34455612,1
+142,Health Centre,Ballyfarnan,Ballyfarnan,"Ballyfarnan, Boyle, Co. Roscommon.",Roscommon,-8.204315369,54.0722934,1
+143,Health Centre,Ballyforan,Ballyforan,"Ballyforan, Athlone, Co. Roscommon.",Roscommon,-8.266114985,53.47038572,1
+144,Health Centre,Boyle,Boyle,"Elphin Street, Boyle, Co. Roscommon.",Roscommon,-8.303287651,53.97026841,1
+145,Health Centre,Brideswell,Brideswell,"Brideswell, Athlone, Co. Roscommon.",Roscommon,-8.087529546,53.4496089,1
+146,Health Centre,Cloonfad,Cloonfad,"Cloonfad West, Co. Roscommon.",Roscommon,-8.752175065,53.68592676,1
+147,Health Centre,Derrinisky,Derrinisky,"Derrinisky, Arigna, Co. Roscommon.",Roscommon,-8.106996207,54.07873553,1
+148,Health Centre,Dolanstown,Dolanstown,"Dolanstown, Ballydangan, Athlone, Co. Roscommon.",Roscommon,-8.085578211,53.34994994,1
+149,Health Centre,Elphin,Elphin,"Elphin, Co. Roscommon.",Roscommon,-8.201446056,53.84514778,1
+150,Health Centre,Keadue,Keadue,"Keadue, Co. Roscommon.",Roscommon,-8.137395801,54.05111712,1
+151,Health Centre,Loughglynn,Loughglynn,"Loughglynn, Co. Roscommon.",Roscommon,-8.569258676,53.82846182,1
+152,Health Centre,Derrinturn,Derrinturn,"Derrinturn, Co. Kildare.",Kildare,-6.940669974,53.34032639,1
+153,Health Centre,Donard,Donard,"Donard, Co. Wicklow.",Wicklow,-6.612772307,53.02142614,1
+154,Health Centre,Dunlavin,Dunlavin,"Kilcullen Streeet, Dunlavin, Co. Wicklow.",Wicklow,-6.699158812,53.05969403,1
+155,Health Centre,Fontstown,Fontstown,"Rathsillagh Upper, Fontstown, Co. Kildare.",Kildare,-6.87250818,53.06048982,1
+156,Health Centre,Johnstownbridge,Johnstownbridge,"Johnstownbridge, Co. Kildare.",Kildare,-6.857528321,53.40115289,1
+157,Health Centre,Kilcullen,Kilcullen,"St. Brigid's Avenue, Kilcullen, Co. Kildare.",Kildare,-6.746883003,53.12852424,1
+158,Health Centre,Kildare,Kildare,"Tully Road, Kildare Town, Co. Kildare.",Kildare,-6.911294299,53.15434774,1
+159,Health Centre,Kilmeague,Kilmeague,"Kilmeague, Co. Kildare.",Kildare,-6.840986264,53.25033272,1
+160,Health Centre,Kiltegan,Kiltegan,"Kiltegan, Co. Wicklow.",Wicklow,-6.606378927,52.90515164,1
+161,Health Centre,Leixlip,Leixlip,"Main Street, Leixlip, Co. Kildare.",Kildare,-6.489836146,53.36362876,1
+162,Health Centre,Maynooth,Maynooth,"Leinster Street, Maynooth, Co. Kildare.",Kildare,-6.591544509,53.37918073,1
+163,Health Centre,Rathangan,Rathangan,"Rathangan, Co. Kildare.",Kildare,-7.002592003,53.22155909,1
+164,Health Centre,Arklow,Arklow,"Castle Park, Arklow, Co. Wicklow",Wicklow,-6.154985734,52.79695527,1
+165,Health Centre,Aughrim,Aughrim,"Main Street, Aughrim, Co. Wicklow",Wicklow,-6.322891238,52.85609959,1
+166,Health Centre,Avoca,Avoca,"Kilmagig Lower, Avoca, Co. Wicklow.",Wicklow,-6.213052053,52.85833929,1
+167,Health Centre,Monksland,Monksland,"Monksland, Athlone, Co. Roscommon.",Roscommon,-7.981941409,53.42358389,1
+168,Health Centre,Ballintra,Ballintra,"Main Street, Ballintra, Co. Donegal",Donegal,-8.127476009,54.57638434,1
+169,Health Centre,Ballyshannon,Ballyshannon,"Bishop Street, Ballyshannon, Co. Donegal.",Donegal,-8.19349464,54.50385122,1
+170,Health Centre,Buncrana,Buncrana,"Maginn Avenue, Buncrana, Co. Donegal.",Donegal,-7.44947602,55.13345907,1
+171,Health Centre,Roundwood,Roundwood,"Roundwood, Co. Wicklow.",Wicklow,-6.226008169,53.06183707,1
+172,Health Centre,Templerainey,Templerainey,"7 Inbhear Mor Park, Templerainey, Arklow, Co. Wicklow.",Wicklow,-6.151153171,52.80689862,1
+173,Health Centre,Abbeyleix,Abbeyleix,"Abbeyleix, Co. Laois.",Laois,-7.343620118,52.91208719,1
+174,Health Centre,Ballinakill,Ballinakill,"Bride Street, Ballinakill, Co. Laois.",Laois,-7.309098313,52.87463031,1
+175,Health Centre,Ballylinan,Ballylinan,"Ballylinan, Co. Laois.",Laois,-7.043111695,52.9422986,1
+176,Health Centre,Borris in Ossory,Borris in Ossory,"Sentryhill, Borris in Ossory, Co. Laois.",Laois,-7.615318679,52.94008127,1
+177,Health Centre,Clonaslee,Clonaslee,"Clonaslee, Co. Laois.",Laois,-7.529835085,53.15041167,1
+178,Health Centre,Durrow,Durrow,"Mary Street, Durrow, Co. Laois.",Laois,-7.394547432,52.84628812,1
+179,Health Centre,Errill,Errill,"Errill, Co. Laois.",Laois,-7.681252554,52.85888434,1
+180,Health Centre,Bundoran,Bundoran,"Station Road, Bundoran, Co. Donegal.",Donegal,-8.277292391,54.47843192,1
+181,Health Centre,Burt,Burt,"Burt, Carrownamaddy, Speenoge, Co. Donegal.",Donegal,-7.427849124,55.03981978,1
+182,Health Centre,Carndonagh,Carndonagh,"Ballyloskey Road, Carndonagh, Co. Donegal.",Donegal,-7.263993046,55.24661634,1
+183,Health Centre,Castlefin,Castlefin,"CPI Centre, Knockrawer, Castlefin, Co. Donegal.",Donegal,-7.587564577,54.80251094,1
+184,Health Centre,Cappry,Cappry,"Cappry, Ballybofey, Co. Donegal.",Donegal,-7.822729907,54.79051486,1
+185,Health Centre,Churchill,Churchill,"Keeloges, Churchill, Co. Donegal.",Donegal,-7.888548636,54.98210304,1
+186,Health Centre,Cloghan,Cloghan,"Cloghan, Co. Donegal.",Donegal,-7.933926765,54.84158687,1
+187,Health Centre,Clonmany,Clonmany,"Clonmany, Co. Donegal.",Donegal,-7.40158393,55.25767324,1
+188,Health Centre,Convoy,Convoy,"Convoy, Convoy Enterprise Centre, Co. Donegal.",Donegal,-7.658891315,54.85796456,1
+189,Health Centre,Graigue,Graigue,"Oakley Park, Graigue, Co. Laois",Laois,-6.943813029,52.84055155,1
+190,Health Centre,Luggacurren,Luggacurren,"Luggacurren, Co. Laois.",Laois,-7.128109638,52.94700635,1
+191,Health Centre,Mountrath,Mountrath,"Link Road, Mountrath, Co. Laois.",Laois,-7.474144756,52.9998536,1
+192,Health Centre,Portlaoise,Portlaoise,"Dublin Road, Portlaoise, Co. Laois.",Laois,-7.284403006,53.03685668,1
+193,Health Centre,Rathdowney,Rathdowney,"Rathdowney, Co. Laois.",Laois,-7.594549598,52.85558564,1
+194,Health Centre,Stradbally,Stradbally,"Stradbally, Co. Laois.",Laois,-7.150737059,53.01707639,1
+195,Health Centre,The Swan,The Swan,"The Swan, Co. Laois",Laois,-7.154613109,52.88487346,1
+196,Health Centre,Timahoe,Timahoe,"Timahoe, Co. Laois.",Laois,-7.202498384,52.96070491,1
+197,Health Centre,Birr,Birr,"St. John's Terrace, Birr, Co. Offaly.",Offaly,-7.90718025,53.09458426,1
+198,Health Centre,Banagher,Banagher,"Cuba Avenue, Banagher, Co. Offaly.",Offaly,-7.979855719,53.18806611,1
+199,Health Centre,Blueball,Blueball,"Pallas, Blueball, Co. Offaly.",Offaly,-7.615489184,53.22765875,1
+200,Health Centre,Clara,Clara,"The Green, Clara, Co. Offaly.",Offaly,-7.613361154,53.34419444,1
+201,Health Centre,Cloghan,Cloghan,"Castle Street, Cloghan, Co. Offaly.",Offaly,-7.885055871,53.22494365,1
+202,Health Centre,Clonbullogue,Clonbullogue,"Clonbullogue, Co. Offaly.",Offaly,-7.085069046,53.25865941,1
+203,Health Centre,Cloneygowan,Cloneygowan,"Cloneygowan, Co. Offaly.",Offaly,-7.281534911,53.18752596,1
+204,Health Centre,Daingean,Daingean,"Main Street, Daingean, Co. Offaly.",Offaly,-7.292636321,53.29486999,1
+205,Health Centre,Culdaff,Culdaff,"Main Street, Culdaff, Co. Donegal.",Donegal,-7.168495533,55.28724518,1
+206,Health Centre,Donegal,Donegal,"Donegal Hospital, Donegal Town, Co. Donegal.",Donegal,-8.099053932,54.65556911,1
+207,Health Centre,Doochary,Doochary,"Doochary, Co. Donegal.",Donegal,-8.208416148,54.90613154,1
+208,Health Centre,Dunkineely,Dunkineely,"Main Street, Dunkineely, Co. Donegal.",Donegal,-8.364570808,54.63099149,1
+209,Health Centre,Church Road,Church Road,"Church Road, Falcarragh, Co. Donegal.",Donegal,-8.100611741,55.1367206,1
+210,Health Centre,St. Martins,St. Martins,"St. Martin's, Church Road, Falcarragh, Co. Donegal.",Donegal,-8.101407083,55.13734618,1
+211,Health Centre,Fahan,Fahan,"Fahan, Co. Donegal.",Donegal,-7.440502321,55.06974119,1
+212,Health Centre,Frosses,Frosses,"Frosses, Co. Donegal.",Donegal,-8.241988518,54.66781617,1
+213,Health Centre,Ferbane,Ferbane,"Belmount Road, Ferbane, Co. Offaly.",Offaly,-7.834025959,53.2716964,1
+214,Health Centre,Kinnity,Kinnity,"Castletown, Kinnity, Co. Offaly.",Offaly,-7.715716051,53.09831002,1
+215,Health Centre,Moneygall,Moneygall,"Moneygall, Co. Offaly.",Offaly,-7.958965766,52.87941893,1
+216,Health Centre,Shannonbridge,Shannonbridge,"Main Street, Shannonbridge, Co. Offaly.",Offaly,-8.045530437,53.2795043,1
+217,Health Centre,Shinrone,Shinrone,"Roscrea Road, Shinrone, Co. Offaly.",Offaly,-7.924070691,52.9842088,1
+218,Health Centre,Tullamore,Tullamore,"Arden Road, Tullamore, Co. Offaly.",Offaly,-7.4907565,53.28151345,1
+219,Health Centre,Aughnacliffe,Aughnacliffe,"Aughnacliffe, Co. Longford",Longford,-7.604490504,53.84613216,1
+220,Health Centre,Ballinalee,Ballinalee,"Ballinalee, Co. Longford.",Longford,-7.657066323,53.77543823,1
+221,Health Centre,Colehill,Colehill,"Colehill, Co. Longford",Longford,-7.680901344,53.59829618,1
+222,Health Centre,Drumlish,Drumlish,"Drumlish, Co. Longford.",Longford,-7.771310646,53.81833427,1
+223,Health Centre,Edgeworthstown,Edgeworthstown,"Edgeworthstown, Co. Longford.",Longford,-7.609331703,53.69341135,1
+224,Health Centre,Kilashee,Kilashee,"Kilashee, Co. Longford.",Longford,-7.878463342,53.68141374,1
+225,Health Centre,Glengad,Glengad,"Glengad, Co. Donegal.",Donegal,-7.178985403,55.32770151,1
+226,Health Centre,Glenties,Glenties,"Station Road, Glenties, Co. Donegal.",Donegal,-8.285365766,54.79943288,1
+227,Health Centre,Killybegs,Killybegs,"St. Catherine's Road, Killybegs, Co. Donegal.",Donegal,-8.446700645,54.63476817,1
+228,Health Centre,Killygordon,Killygordon,"Killygordon, Co. Donegal.",Donegal,-7.681914719,54.7969625,1
+229,Health Centre,Kilmacrennan,Kilmacrennan,"Kilmacrrennan, Co. Donegal.",Donegal,-7.77738191,55.03106397,1
+230,Health Centre,Laghey,Laghey,"Main Street, Laghey, Co. Donegal.",Donegal,-8.086165734,54.61789494,1
+231,Health Centre,Letterkenny,Letterkenny,"Pearse Road, Letterkenny, Co. Donegal.",Donegal,-7.732375888,54.95113653,1
+232,Health Centre,Lifford,Lifford,"Lifford Bridge, Lifford, Co. Donegal.",Donegal,-7.48324989,54.83159234,1
+233,Health Centre,Lanesboro,Lanesboro,"Lanesboro, Co. Longford.",Longford,-7.988904207,53.67160101,1
+234,Health Centre,Legga,Legga,"Legga, Co. Longford.",Longford,-7.656870869,53.89305844,1
+235,Health Centre,Newtowncashel,Newtowncashel,"Newtowncashel, Co. Longford.",Longford,-7.937504196,53.58967095,1
+236,Health Centre,Smear,Smear,"Smear, Co. Longford.",Longford,-7.59930926,53.87077789,1
+237,Health Centre,Athlone,Athlone,"St. Vincent's Hospital, Coosan Point Road, Athlone, Co. Westmeath.",Westmeath,-7.941500799,53.42684689,1
+238,Health Centre,Ballynacargy,Ballynacargy,"Wood Row, Ballynacargy, Co. Westmeath",Westmeath,-7.539072855,53.58312467,1
+239,Health Centre,Castlepollard,Castlepollard,"Castlepollard, Co. Westmeath.",Westmeath,-7.299913421,53.67669872,1
+240,Health Centre,Castletown Geoghegan,Castletown Geoghegan,"Woodside, Castletown Geoghegan, Co. Westmeath.",Westmeath,-7.484095524,53.44277945,1
+241,Health Centre,Clonmellon,Clonmellon,"Killallon Road, Clonmellon, Co. Westmeath.",Westmeath,-7.023605141,53.66499172,1
+242,Health Centre,Delvin,Delvin,"Main Street, Delvin, Co. Westmeath.",Westmeath,-7.091567761,53.61340972,1
+243,Health Centre,Finea,Finea,"Finea, Co. Westmeath.",Westmeath,-7.384310418,53.77868709,1
+244,Health Centre,Glasson,Glasson,"Glasson, Co. Westmeath.",Westmeath,-7.864185932,53.47207498,1
+245,Health Centre,Malin,Malin,"Malin, Co. Donegal.",Donegal,-7.262321346,55.29641599,1
+246,Health Centre,Manorcunningham,Manorcunningham,"Manorcunningham, Co. Donegal.",Donegal,-7.622479146,54.95004773,1
+247,Health Centre,Milford,Milford,"Main Street, Milford, Co. Donegal.",Donegal,-7.697251544,55.08687793,1
+248,Health Centre,Mountcharles,Mountcharles,"Station Road, Mountcharles, Co. Donegal.",Donegal,-8.192397625,54.64435335,1
+249,Health Centre,Kilbeggan,Kilbeggan,"Mullingar Road, Kilbeggan, Co. Westmeath.",Westmeath,-7.497180904,53.36914593,1
+250,Health Centre,Killucan,Killucan,"Rathwire Lower, Killucan, Co. Westmeath.",Westmeath,-7.145485589,53.50939084,1
+251,Health Centre,Rochfortsbridge,Rochfortsbridge,"79 Derrygreenagh Park, Rochfortsbridge, Co. Westmeath.",Westmeath,-7.296315838,53.41964705,1
+252,Health Centre,Streete,Streete,"Cornacauske, Streete, Co. Westmeath.",Westmeath,-7.49028725,53.68308725,1
+253,Health Centre,Ballsgrove,Ballsgrove,"Ballsgrove Estate, Ballsgrove, Drogheda, Co. Louth.",Louth,-6.361678456,53.71161553,1
+254,Health Centre,Haymarket,Haymarket,"The Haymarket, John Street, Drogheda, Co. Louth.",Louth,-6.352097065,53.71275922,1
+255,Health Centre,Carlingford,Carlingford,"Trinity Close, Carlingford, Co. Louth.",Louth,-6.187092758,54.03852943,1
+256,Health Centre,Castlebellingham,Castlebellingham,"Castlebellingham, Co. Louth.",Louth,-6.391811669,53.90048306,1
+257,Health Centre,Dunleer,Dunleer,"School Lane, Dunleer, Co. Louth.",Louth,-6.394507885,53.82772603,1
+258,Health Centre,Market Street,Market Street,"Market Street, Dundalk, Co. Louth.",Louth,-6.400055808,54.0055188,1
+259,Health Centre,Dublin Road,Dublin Road,"Dublin Road, Dundalk, Co. Louth.",Louth,-6.399376043,53.98814972,1
+260,Health Centre,Ravensdale,Ravensdale,"Ravensdale, Co. Louth.",Louth,-6.348771632,54.04940992,1
+261,Health Centre,Termonfeckin,Termonfeckin,"Termonfeckin, Co. Louth.",Louth,-6.275146858,53.75855168,1
+262,Health Centre,Benburb,Benburb,"Benburb Street, Dublin 7",Dublin,-6.282167851,53.34724835,1
+263,Health Centre,Corduff,Corduff,"Corduff Green, Blanchardstown, Dublin 15.",Dublin,-6.376339566,53.39754715,1
+264,Health Centre,Lisburn Street,Lisburn Street,"Lisburn Street, Dublin 7.",Dublin,-6.273076041,53.35075169,1
+265,Health Centre,Roselawn,Roselawn,"Roselawn Road, Castleknock, Dublin 15.",Dublin,-6.382451227,53.38435976,1
+266,Health Centre,Muff,Muff,"Muff, Co. Donegal.",Donegal,-7.270102129,55.06718353,1
+267,Health Centre,Newtowncunningham,Newtowncunningham,"Colehill, Newtowncunningham, Co. Donegal.",Donegal,-7.506734518,54.99773958,1
+268,Health Centre,Pettigo,Pettigo,"Main Street, Pettigo, Co. Donegal.",Donegal,-7.83317118,54.5492996,1
+269,Health Centre,Quigleys Point,Quigleys Point,"Quigleys Point, Inishowen, Co. Donegal.",Donegal,-7.196264719,55.1243739,1
+270,Health Centre,Raphoe,Raphoe,"Meetinghouse Street, Raphoe, Co. Donegal.",Donegal,-7.602627178,54.87321422,1
+271,Health Centre,Mohill,Mohill,"Water Street, Mohill, Carrick on Shannon, Co. Leitrim.",Leitrim,-7.865441115,53.92343085,1
+272,Health Centre,Ballymun,Ballymun,"Ballymun Health Care Facility, Civic Offices, Ballymun Road, Dublin 11",Dublin,-6.263681155,53.39537878,1
+273,Health Centre,East Wall,East Wall,"Church Road, Dublin 3.",Dublin,-6.236611197,53.35202579,1
+274,Health Centre,Killester,Killester,"Killester Avenue, Dublin 5.",Dublin,-6.212466883,53.37751671,1
+275,Health Centre,Marino,Marino,"1A Griffith Avenue, Dublin 9.",Dublin,-6.227759746,53.36820408,1
+276,Health Centre,Summerhill,Summerhill,"90 Summerhill, Dublin 1.",Dublin,-6.252071659,53.35626419,1
+277,Health Centre,Balbriggan,Balbriggan,"Hampton Street, Balbriggan, Co. Dublin.",Dublin,-6.179155933,53.60706002,1
+278,Health Centre,Baldoyle,Baldoyle,"Willie Nolan Road, Baldoyle, Dublin 13.",Dublin,-6.129030873,53.39877919,1
+279,Health Centre,Darndale,Darndale,"Darndale Primary Care Centre, Darndale/Belcamp Village Centre, Darndale, Dublin 17.",Dublin,-6.19428751,53.40148068,1
+280,Health Centre,Donabate,Donabate,"St. Patrick's Terrace, Donabate, Co. Dublin.",Dublin,-6.147355172,53.48555869,1
+281,Health Centre,Edenmore,Edenmore,"Edenmore Shopping Centre, Edenmore Park, Raheny, Dublin 5.",Dublin,-6.182711747,53.38820381,1
+282,Health Centre,Rathmullan,Rathmullan,"Rathmullan, Co. Donegal.",Donegal,-7.534061856,55.09569195,1
+283,Health Centre,Stranorlar,Stranorlar,"Pound Street, Stranorlar, Co. Donegal.",Donegal,-7.76625306,54.80507005,1
+284,Health Centre,St. Johnston,St. Johnston,"St. Johnston Resource Centre, Chapel Road, St. Johnston, Co. Donegal.",Donegal,-7.464108985,54.93303143,1
+285,Health Centre,Tamney,Tamney,"Tamney, Co. Donegal.",Donegal,-7.690919392,55.19916852,1
+286,Health Centre,Aclare,Aclare,"Lisheen, Aclare, Co. Sligo.",Sligo,-8.905030561,54.03465337,1
+287,Health Centre,Ballymote,Ballymote,"Fairgreen Road, Ballymote, Co. Sligo.",Sligo,-8.513948594,54.0901629,1
+288,Health Centre,Carrigeens,Carrigeens,"Carrigeens, Ballinful, Co. Sligo.",Sligo,-8.608940337,54.35464103,1
+289,Health Centre,Cliffoney,Cliffoney,"Cliffoney, Co. Sligo.",Sligo,-8.452435913,54.43056852,1
+290,Health Centre,Collooney,Collooney,"Lower Main Street, Collooney, Co. Sligo.",Sligo,-8.489413297,54.18560534,1
+291,Health Centre,Oldtown,Oldtown,"Clonmethan, Oldtown, Co. Dublin.",Dublin,-6.317922801,53.51835831,1
+292,Health Centre,Portmarnock,Portmarnock,"Strand Shopping Centre, Portmarnock, Co. Dublin.",Dublin,-6.138525487,53.42067573,1
+293,Health Centre,Raheny,Raheny,"33 Main Street, Raheny, Dublin 5.",Dublin,-6.175212827,53.37904277,1
+294,Health Centre,Bailieborough,Bailieborough,"Kells Road, Baileborough, Co. Cavan.",Cavan,-6.96995523,53.91335758,1
+295,Health Centre,Ballinagh,Ballinagh,"Crossdoney Road, Ballinagh, Co. Cavan",Cavan,-7.410445517,53.93311516,1
+296,Health Centre,Daisy Hill,Daisy Hill,"Daisy Hill, Ballyconnell, Co. Cavan.",Cavan,-7.581431143,54.11474938,1
+297,Health Centre,Coolaney,Coolaney,"Coolaney, Co. Sligo.",Sligo,-8.607941975,54.17011298,1
+298,Health Centre,Geevagh,Geevagh,"Ballynashee, Geevagh, Co. Sligo.",Sligo,-8.2461466,54.10097661,1
+299,Health Centre,Gurteen,Gurteen,"Rathmadder, Gurteen, Co. Sligo.",Sligo,-8.518217733,53.99398744,1
+300,Health Centre,Riverstown,Riverstown,"Cuiltylough, Riverstown, Co. Sligo.",Sligo,-8.393399304,54.13249014,1
+301,Health Centre,Skreen,Skreen,"Gerrib Little, Skreen, Co. Sligo.",Sligo,-8.702422396,54.24301129,1
+302,Health Centre,Tubbercurry,Tubbercurry,"Tubbercurry, Co. Sligo.",Sligo,-8.905030561,54.03465337,1
+303,Health Centre,Ballinaglera,Ballinaglera,"Derrinwillan, Dowra, Co. Leitrim.",Leitrim,-8.0088397,54.156346,1
+304,Health Centre,Blacklion,Blacklion,"Main Street, Blacklion.",Cavan,-7.877991438,54.29161255,1
+305,Health Centre,Carrick on Shannon,Carrick on Shannon,"Community Care Offices, Leitrim Road, Carrick on Shannon, Co. Leitrim",Leitrim,-8.090949334,53.94881059,1
+306,Health Centre,Carrigallen,Carrigallen,"Clooncorick, Carrigallen, Co. Leitrim",Leitrim,-7.640574506,53.9768464,1
+307,Health Centre,Ballyhaise,Ballyhaise,"Ballyhaise, Co. Cavan.",Cavan,-7.315282753,54.04720375,1
+308,Health Centre,Ballyjamesduff,Ballyjamesduff,"Percy French Park, Ballyjamesduff, Co. Cavan.",Cavan,-7.208182465,53.86184038,1
+309,Health Centre,Deanery Street,Deanery Street,"Deanery St, Belturbet",Cavan,-7.43984131,54.10216984,1
+310,Health Centre,Drumalee,Drumalee,"Drumalee Cross, Cavan Town",Cavan,-7.354240612,54.00137395,1
+311,Health Centre,Church View,Church View,"Church Street, Cavan",Cavan,-7.36000155,53.99490519,1
+312,Health Centre,Corlough,Corlough,"Corlough, Co Cavan",Cavan,-7.773749216,54.12673523,1
+313,Health Centre,Drumkeerin,Drumkeerin,"Lugmeen, Drumkeerin, Co. Leitrim.",Leitrim,-8.141587936,54.16837196,1
+314,Health Centre,Drumshanbo,Drumshanbo,"Ballinamore Road, Drumshambo, Co. Leitrim.",Leitrim,-8.035947013,54.04709548,1
+315,Health Centre,Glenfarne,Glenfarne,"Brockagh Lower, Glenfarne, Co. Leitrim.",Leitrim,-7.985700271,54.28461963,1
+316,Health Centre,Kiltyclogher,Kiltyclogher,"Main Street, Kiltyclogher, Co. Leitrim.",Leitrim,-8.038313599,54.35586148,1
+317,Health Centre,Kinlough,Kinlough,"Kinlough, Co. Leitrim.",Leitrim,-8.286466441,54.44862483,1
+318,Health Centre,Manorhamilton,Manorhamilton,"New Line, Manorhamilton, Co. Leitrim.",Leitrim,-8.175200503,54.3055589,1
+319,Health Centre,Darley,Darley,"Fairgreen, Cootehill, Co. Cavan",Cavan,-7.083628209,54.07526531,1
+320,Health Centre,Kilcogy,Kilcogy,"Kilcogy Village, Co. Cavan",Cavan,-7.424828915,53.82731037,1
+321,Health Centre,Killeshandra,Killeshandra,"Railway Road, Killeshandra, Co. Cavan.",Cavan,-7.528882648,54.01359476,1
+322,Health Centre,Kilnaleck,Kilnaleck,"Realtog Centre -  Kilnaleck, Co. Cavan.",Cavan,-7.32054691,53.86020031,1
+323,Health Centre,Lisdaran,Lisdaran,"Lisdaran, Co. Cavan",Cavan,-7.367054245,54.00377606,1
+324,Health Centre,Loch Gowna,Loch Gowna,"Loch Gowna, Co. Cavan.",Cavan,-7.536562507,53.87529553,1
+325,Health Centre,Lynton House,Lynton House,"Main Street, Cavan",Cavan,-7.362112831,53.99261726,1
+326,Health Centre,Mountain Lodge,Mountain Lodge,"Mountain Lodge, Cootehill, Co. Cavan",Cavan,-7.109403301,53.98028577,1
+327,Health Centre,Mullagh,Mullagh,"Mullagh, Kells, Co. Meath",Cavan,-6.949059036,53.81253856,1
+328,Health Centre,Shercock,Shercock,"Fair Green, Shercock, Co. Cavan.",Cavan,-6.895331423,53.99425497,1
+329,Health Centre,Stradone,Stradone,"Community Resource Centre, Stradone, Co. Cavan.",Cavan,-7.236909186,53.98307851,1
+330,Health Centre,Newtowngore,Newtowngore,"Newtowngore, Carrick on Shannon, Co. Leitrim",Leitrim,-7.6768976,54.04213022,1
+331,Health Centre,Dromod,Dromod,"Station Road, Dromod, Co. Leitrim.",Leitrim,-7.918127001,53.85807008,1
+332,Health Centre,Broadford,Broadford,"O'Shea's Acres, Broadford, Co. Clare.",Clare,-8.633847784,52.80839815,1
+333,Health Centre,Clarecastle,Clarecastle,"Old Road, Clarecastle, Co. Clare.",Clare,-8.966139643,52.81371028,1
+334,Health Centre,Corofin,Corofin,"Kilvoydan, Corofin, Co. Clare.",Clare,-9.05809075,52.94734156,1
+335,Health Centre,Ennis,Ennis,"Mill Road, Ennis, Co. Clare",Clare,-8.985243984,52.84648077,1
+336,Health Centre,Ennistymon,Ennistymon,"Ennis Road, Ennistymon, Co. Clare",Clare,-9.289097275,52.93717557,1
+337,Health Centre,Kilkee,Kilkee,"Church Road, Kilkee, Co. Clare",Clare,-9.650857878,52.6763007,1
+338,Health Centre,Kilmihil,Kilmihil,"Main Street, Kilmihil, Co. Clare.",Clare,-9.317101337,52.72023221,1
+339,Health Centre,Kilrush,Kilrush,"Fahy's Road, Kilrush, Co. Clare",Clare,-9.487361299,52.64112341,1
+340,Health Centre,Swanlinbar,Swanlinbar,"Creamery Road, Swanlinbar, Co. Cavan.",Cavan,-7.704758789,54.19112354,1
+341,Health Centre,Termon,Termon,"Termon, Virginia, Co. Cavan",Cavan,-7.127296652,53.91358809,1
+342,Health Centre,Tullyvin,Tullyvin,"Aghatotan, Tullyvin, Co. Cavan.",Cavan,-7.147123813,54.05000192,1
+343,Health Centre,Virginia,Virginia,"Bailieboro Road, Virginia, Co. Cavan.",Cavan,-7.077106164,53.83483899,1
+344,Health Centre,Ballybay,Ballybay,"Ballybay, Co. Monaghan.",Monaghan,-6.903154316,54.12907362,1
+345,Health Centre,Carrickmacross,Carrickmacross,"Emmet Street, Carrickmacross, Co. Monaghan.",Monaghan,-6.715228338,53.97510146,1
+346,Health Centre,Lisdoonvarna,Lisdoonvarna,"Main Street, Lisdoonvarna, Co. Clare",Clare,-9.291332373,53.02774522,1
+347,Health Centre,Mullagh,Mullagh,"Mullagh, Co. Clare.",Clare,-9.418198613,52.79974767,1
+348,Health Centre,Scariff,Scariff,"Drewsborough, Scariff, Co. Clare.",Clare,-8.534368833,52.90798405,1
+349,Health Centre,Shannon,Shannon,"Shannon Town Centre, Shannon, Co. Clare.",Clare,-8.877485931,52.70854558,1
+350,Health Centre,Sixmilebridge,Sixmilebridge,"Lodge Road, Sixmilebridge, Co. Clare.",Clare,-8.776432015,52.74232449,1
+351,Health Centre,Tulla,Tulla,"Tulla, Co. Clare.",Clare,-8.755084494,52.86560573,1
+352,Health Centre,Ballina,Ballina,"Ballina, Co. Tipperary.",Tipperary,-8.435590439,52.80911154,1
+353,Health Centre,Marian Avenue,Marian Avenue,"Marian Avenue, Borrisokane, Co. Tipperary.",Tipperary,-8.122699641,52.99202163,1
+354,Health Centre,Borrisoleigh,Borrisoleigh,"Lower Main Street, Borrisoleigh, Co. Tipperary.",Tipperary,-7.953859025,52.75117857,1
+355,Health Centre,Cloughjordan,Cloughjordan,"Step Road, Cloughjordan, Co. Tipperary.",Tipperary,-8.035516862,52.94336439,1
+356,Health Centre,Clones,Clones,"Analore Street, Clones, Co. Monaghan.",Monaghan,-7.229013487,54.17736708,1
+357,Health Centre,Clontibret,Clontibret,"Clontibret, Co. Monaghan.",Monaghan,-6.849532727,54.21688027,1
+358,Health Centre,Emyvale,Emyvale,"Main Street, Emyvale, Co. Monaghan",Monaghan,-6.95950014,54.34097542,1
+359,Health Centre,Mulladuff,Mulladuff,"Mulladuff, Smithboro, Co. Monaghan.",Monaghan,-7.104172,54.22008084,1
+360,Health Centre,Rockcorry,Rockcorry,"Main Street, Rockcorry, Co. Monaghan",Monaghan,-7.015073997,54.1173296,1
+361,Health Centre,Rooskey,Rooskey,"St. Davnet's Hospital Complex, Rooskey, Co. Monaghan.",Monaghan,-6.960123739,54.25194951,1
+362,Health Centre,Scotstown,Scotstown,"Bog Road, Scotstown, Co. Monaghan.",Monaghan,-7.068910356,54.27636157,1
+363,Health Centre,Tullyvara,Tullyvara,"Tullyvara, Broomfield, Co. Monaghan.",Monaghan,-6.7068314,54.03262228,1
+364,Health Centre,Civic Offices,Civic Offices,"Limerick Road, Nenagh, Co. Tipperary.",Tipperary,-8.210402639,52.86250314,1
+365,Health Centre,Nenagh,Nenagh,"Health Centre, Tyone, Nenagh, Co. Tipperary.",Tipperary,-8.191195211,52.85765256,1
+366,Health Centre,Littleton,Littleton,"Littleton, Thurles, Co. Tipperary.",Tipperary,-7.738925023,52.63584246,1
+367,Health Centre,Moyne,Moyne,"Moyne, Thurles, Co. Tipperary.",Tipperary,-7.71382699,52.73472744,1
+368,Health Centre,Newport,Newport,"Pound Street, Newport, Co. Tipperary.",Tipperary,-8.403038287,52.71277281,1
+369,Health Centre,Portroe,Portroe,"Portroe, Nenagh, Co. Tipperary.",Tipperary,-8.353069838,52.88190812,1
+370,Health Centre,Rathcabbin,Rathcabbin,"Rathcabbin, Roscrea, Co. Tipperary.",Tipperary,-8.033642835,53.11650189,1
+371,Health Centre,Rearcross,Rearcross,"Rearcross, Newport, Co. Tipperary.",Tipperary,-8.23664335,52.68659049,1
+372,Health Centre,Gaol Road,Gaol Road,"Gaol Road, Roscrea, Co. Tipperary.",Tipperary,-7.795657238,52.95322489,1
+373,Health Centre,Traynor Court,Traynor Court,"Traynor Court, Chapel Lane, Roscrea, Co. Tipperary.",Tipperary,-7.800375446,52.95492989,1
+374,Health Centre,Templederry,Templederry,"Templederry, Nenagh, Co. Tipperary.",Tipperary,-8.075338883,52.77403985,1
+375,Health Centre,Athboy,Athboy,"1/2 The Courtyard, Kildalkey Road, Athboy, Co. Meath.",Meath,-6.920796258,53.62078069,1
+376,Health Centre,Ballivor,Ballivor,"Community Hall, Mullingar Road, Ballivor, Co. Meath.",Meath,-6.969904288,53.53266094,1
+377,Health Centre,Ballyboggan,Ballyboggan,"Park Health Centre, Ballyboggan, Kinnegad, Co. Meath.",Meath,-7.068853494,53.42382108,1
+378,Health Centre,Castletown/Wilkinstown,Castletown/Wilkinstown,"Balsaw, Wilkinstown, Co. Meath.",Meath,-6.707396494,53.73008051,1
+379,Health Centre,Drumconrath,Drumconrath,"Drumconrath, Co. Meath",Meath,-6.651259851,53.84966584,1
+380,Health Centre,Duleek,Duleek,"Navan Road, Duleek, Co. Meath",Meath,-6.419964182,53.65449759,1
+381,Health Centre,Dunshaughlin/Ratoath,Dunshaughlin/Ratoath,"Main Street, Dunshaughlin, Co. Meath.",Meath,-6.540425288,53.50839164,1
+382,Health Centre,Mosney,Mosney,"Mosney, Co. Meath",Meath,-6.241690532,53.66142776,1
+383,Health Centre,Templemore,Templemore,"Templemore Medical Centre, Bank Street, Co. Tipperary.",Tipperary,-7.832341776,52.79543401,1
+384,Health Centre,Toomevara,Toomevara,"Toomevara, Nenagh, Co. Tipperary.",Tipperary,-8.037521821,52.8497784,1
+385,Health Centre,St. Mary's,St. Mary's,"Parnell Street, Thurles, Co. Tipperary.",Tipperary,-7.819818309,52.68107183,1
+386,Health Centre,Upperchurch,Upperchurch,"Upperchurch, Thurles, Co. Tipperary.",Tipperary,-8.018412017,52.7026233,1
+387,Health Centre,Annacotty,Annacotty,"Annacotty, Co. Limerick.",Limerick,-8.52990275,52.6678988,1
+388,Health Centre,Bishop Street,Bishop Street,"Bishop Street, Limerick.",Limerick,-8.622256664,52.66914606,1
+389,Health Centre,Cappamore,Cappamore,"Moore Street, Cappamore, Co. Limerick.",Limerick,-8.336129699,52.61425017,1
+390,Health Centre,Caherconlish,Caherconlish,"Main Street, Caherconlish, Co. Limerick.",Limerick,-8.469811598,52.59378123,1
+391,Health Centre,Castleconnell,Castleconnell,"Castleconnell, Co. Limerick.",Limerick,-8.501951069,52.71327094,1
+392,Health Centre,Laytown/Stamullen,Laytown/Stamullen,"Alverno Heights, Laytown, Co. Meath.",Meath,-6.240208203,53.68099803,1
+393,Health Centre,Johnstown,Johnstown,"Johnstown, Navan, Co. Meath",Meath,-6.646351247,53.63513909,1
+394,Health Centre,Nobber,Nobber,"Muff, Nobber, Co. Meath.",Meath,-6.756010418,53.82592103,1
+395,Health Centre,Slane,Slane,"Chapel Street, Slane, Co. Meath.",Meath,-6.541604519,53.71087413,1
+396,Health Centre,Ballincollig,Ballincollig,"Innishmore, Ballincollig, Co. Cork.",Cork,-8.609614682,51.88660886,1
+397,Health Centre,Murroe,Murroe,"Main Street, Murroe, Co. Limerick.",Limerick,-8.39856047,52.65185527,1
+398,Health Centre,Roxtown,Roxtown,"Roxtown Health Centre, Old Clare Street, Limerick",Limerick,-8.573322037,52.66928302,1
+399,Health Centre,Abbeyfeale,Abbeyfeale,"Colbert Terrace, Abbeyfeale, Co. Limerick.",Limerick,-9.300293479,52.38645173,1
+400,Health Centre,Adare,Adare,"Rathkeale Road, Adare, Co. Limerick.",Limerick,-8.793709629,52.5624702,1
+401,Health Centre,Askeaton,Askeaton,"Chapel Road, Askeaton, Co. Limerick.",Limerick,-8.980520754,52.59995515,1
+402,Health Centre,Athea,Athea,"Gortnagross, Athea, Co. Limerick.",Limerick,-9.287551515,52.45882371,1
+403,Health Centre,Ballingarry,Ballingarry,"Main Street, Ballingarry, Co. Limerick.",Limerick,-8.863548179,52.47379372,1
+404,Health Centre,Ballyhahill,Ballyhahill,"Main Street, Ballyhahill, Co. Limerick.",Limerick,-9.193502993,52.55987747,1
+405,Health Centre,Ballykenny,Ballykenny,"Ballykenny, Co. Limerick.",Limerick,-9.089662831,52.39507642,1
+406,Health Centre,Ballylanders,Ballylanders,"Galbally Road, Ballylanders, Co. Limerick.",Limerick,-8.34817204,52.37248355,1
+407,Health Centre,Ballinhassig,Ballinhassig,"Gogginshill, Ballinhassig, Co. Cork.",Cork,-8.544326554,51.81178018,1
+408,Health Centre,Ballinspittle,Ballinspittle,"Ballinspittle, Co. Cork.",Cork,-8.596530316,51.66464122,1
+409,Health Centre,Ballynanty,Ballynanty,"Kileely Road, Ballynanty, Co. Limerick.",Limerick,-8.640015157,52.67461349,1
+410,Health Centre,Broadford,Broadford,"Main Street, Broadford, Co. Limerick.",Limerick,-8.977050228,52.34532546,1
+411,Health Centre,Bruff,Bruff,"Main Street, Bruff, Co. Limerick.",Limerick,-8.547886599,52.4766648,1
+412,Health Centre,Bruree,Bruree,"Main Street, Bruree, Co. Limerick.",Limerick,-8.660661088,52.42458001,1
+413,Health Centre,Castletown,Castletown,"Castletown, Kilmallock, Co. Limerick.",Limerick,-8.8113128,52.42420394,1
+414,Health Centre,Croom,Croom,"High Street, Croom, Co. Limerick.",Limerick,-8.716831497,52.51902762,1
+415,Health Centre,Dooradoyle,Dooradoyle,"St. Nessan's Road, Dooradoyle, Limerick.",Limerick,-8.655481981,52.63628636,1
+416,Health Centre,Dromcollogher,Dromcollogher,"Dromcollogher, Co. Limerick.",Limerick,-8.905889098,52.33883916,1
+417,Health Centre,Fedamore,Fedamore,"Fedamore, Co. Limerick.",Limerick,-8.602335583,52.545638,1
+418,Health Centre,Foynes,Foynes,"Main Street, Foynes, Co. Limerick.",Limerick,-9.108025276,52.61152816,1
+419,Health Centre,Galbally,Galbally,"Galbally, Co. Limerick.",Limerick,-8.290530559,52.40014742,1
+420,Health Centre,Enniskeane,Enniskeane,"Community Centre, Enniskeane, Co. Cork",Cork,-8.941909667,51.73563978,1
+421,Health Centre,Togher,Togher,"Togher Community Association, Togher Road, Cork",Cork,-8.495771023,51.87502254,1
+422,Health Centre,Glin,Glin,"Glin, Co. Limerick.",Limerick,-9.287270266,52.56973521,1
+423,Health Centre,Hospital,Hospital,"Knockainey Road, Hospital, Co. Limerick.",Limerick,-8.434453486,52.47431064,1
+424,Health Centre,Kilfinanne,Kilfinanne,"Kilfinanne, Co. Limerick.",Limerick,-8.472470632,52.35797233,1
+425,Health Centre,Kilmallock,Kilmallock,"Railway Road, Kilmallock, Co. Limerick.",Limerick,-8.566212985,52.39638768,1
+426,Health Centre,Kilmeedy,Kilmeedy,"Kilmeedy, Co. Limerick.",Limerick,-8.916127131,52.41521113,1
+427,Health Centre,Moyross,Moyross,"Moyross Community Enterprise Centre, Moyross, Limerick.",Limerick,-8.64665414,52.68145064,1
+428,Health Centre,Gortboy,Gortboy,"Gortboy, Newcastlewest, Co. Limerick.",Limerick,-9.053252517,52.45493805,1
+429,Health Centre,Rathkeale,Rathkeale,"Rathkeale, Co. Limerick.",Limerick,-8.928653303,52.52435735,1
+430,Health Centre,Roxtown,Roxtown,"Old Clare Street, Limerick.",Limerick,-8.615477841,52.66534483,1
+431,Health Centre,Southill,Southill,"291A Donough O'Malley Park, Southill, Limerick.",Limerick,-8.608619763,52.64560446,1
+432,Health Centre,Grattan Street,Grattan Street,"Grattan Street, Cork.",Cork,-8.479267633,51.89896757,1
+433,Health Centre,Churchfield,Churchfield,"103/105 Knockfree Avenue, Fair Hill, Churchfield, Cork.",Cork,-8.490722242,51.90727142,1
+434,Health Centre,Blackpool,Blackpool,"Blackpool Community Centre, Great William O'Brien Street, Blackpool, Cork.",Cork,-8.474377015,51.91093893,1
+435,Health Centre,Macroom,Macroom,"Middle Square, Macroom, Co. Cork.",Cork,-8.966975921,51.90702825,1
+436,Health Centre,Rylane,Rylane,"Knocknagoun, Rylane, Co. Cork.",Cork,-8.841233666,51.98377555,1
+437,Health Centre,Enniscrone,Enniscrone,"Nephin Drive, Enniscrone, Co. Sligo.",Sligo,-9.082332004,54.21550408,1
+438,Health Centre,Coolock,Coolock,"Cromcastle Road, Coolock, Dublin 5.",Dublin,-6.216061243,53.39546401,1
+439,Health Centre,Easkey,Easkey,"Bunowna, Easkey, Co. Sligo.",Sligo,-8.954835124,54.28599759,1
+440,Health Centre,Ramelton,Ramelton,"Back Road, Ramelton, Co. Donegal",Donegal,-7.648856878,55.03426417,1
+441,Health Centre,Damastown,Damastown,"Damastown Industrial Estate, Mulhuddart, Dublin 15",Dublin,-6.408835306,53.41035786,1
+442,Health Centre,Cois Abhann Residential Centre,Cois Abhann Residential Centre,"Greencloyne, Youghal, Co. Cork",Cork,-7.85968593,51.96195002,1
+443,Health Centre,Blarney,Blarney,"The Square, Blarney, Co. Cork.",Cork,-8.568725157,51.93295446,1
+444,Health Centre,Gurranebraher,Gurranebraher,"St. Mary's Orthopaedic Hospital, Gurranebraher, Co. Cork.",Cork,-8.497337584,51.90505394,1
+445,Health Centre,Farranree,Farranree,"Farranree Community Centre, Popham's Road, Farranree, Cork.",Cork,-8.480724376,51.91476429,1
+446,Health Centre,Mayfield,Mayfield,"Old Youghal Road, Cork.",Cork,-8.441797631,51.91179531,1
+447,Health Centre,Riverstown,Riverstown,"Riverstown Village, Glanmire, Cork.",Cork,-8.395784127,51.92860441,1
+448,Health Centre,Cobh,Cobh,"Bishop's Street, Cobh, Co. Cork.",Cork,-8.294589891,51.85341997,1
+449,Health Centre,Ballymacoda,Ballymacoda,"Ballymacoda, Youghal, Co. Cork.",Cork,-7.94289442,51.89227504,1
+450,Health Centre,Coachford,Coachford,"Main Street, Coachford, Co. Cork.",Cork,-8.787719194,51.90934202,1
+451,Health Centre,Youghal,Youghal,"The Lodge Youghal Community Centre, Cork Hill, Youghal, Co. Cork.",Cork,-7.859409165,51.95705966,1
+452,Health Centre,Castlemartyr,Castlemartyr,"Main Street, Castlemartyr, Co. Cork.",Cork,-8.055128423,51.91187574,1
+453,Health Centre,Kilmurray,Kilmurray,"Kilmurray, Macroom, Co. Cork.",Cork,-8.881737254,51.84251405,1
+454,Health Centre,Cobh,Cobh,"Canon O'Leary Place, Cobh, Co. Cork.",Cork,-8.29521506,51.85265342,1
+455,Health Centre,Killbrittain,Killbrittain,"Killbrittain, Co. Cork.",Cork,-8.692267676,51.67346333,1
+456,Health Centre,Curry,Curry,"Curry, Co. Sligo.",Sligo,-8.773229109,54.00154212,1
+457,Health Centre,Carrigtwohill,Carrigtwohill,"Main Street, Carrigtwohill, Co. Cork.",Cork,-8.257291326,51.90933241,1
+458,Health Centre,Cloyne,Cloyne,"Canon Lynch Place, Chapel Street, Cloyne, Co. Cork.",Cork,-8.122936687,51.8625297,1
+459,Health Centre,Fairhill,Fairhill,"27 Bridevalley View, Fairhill, Cork.",Cork,-8.257291326,51.90933241,1
+460,Health Centre,Eason's Hill,Eason's Hill,"Eason's Hill, Cork.",Cork,-8.475750905,51.90381994,1
+461,Health Centre,The Glen,The Glen,"The Glen Resource and Leisure Centre, The Glen, Cork.",Cork,-8.457916192,51.91178131,1
+462,Health Centre,Carrignavar,Carrignavar,"Carrignavar, Co. Cork.",Cork,-8.478076224,51.98826301,1
+463,Health Centre,Lotamore,Lotamore,"20 Lotamore Park, Mayfield, Cork.",Cork,-8.419038365,51.91487807,1
+464,Health Centre,Adrigole,Adrigole,"Adrigole, Co. Cork.",Cork,-9.712970585,51.68501247,1
+465,Health Centre,Allihies,Allihies,"Claon, Allihies, Co. Cork.",Cork,-10.04436615,51.64206938,1
+466,Health Centre,Baltimore,Baltimore,"Baltimore, Co. Cork.",Cork,-9.373261804,51.48330947,1
+467,Health Centre,Bere Island,Bere Island,"Rerrin, Bere Island, Co. Cork.",Cork,-9.859469399,51.64038885,1
+468,Health Centre,Irishtown,Irishtown,"1A Irishtown Road, Ringsend, Dublin 4.",Dublin,-6.225474712,53.34072739,1
+469,Health Centre,Tralee,Tralee,"Kerry Community Services, Rathass, Co. Kerry",Kerry,-9.685254365,52.26726843,1
+470,Health Centre,Drimoleague,Drimoleague,"East End, Drimoleague, Co. Cork.",Cork,-9.258676309,51.66180064,1
+471,Health Centre,Drinagh,Drinagh,"Drinagh, Co. Cork.",Cork,-9.157800642,51.64648541,1
+472,Health Centre,Bray,Bray,"Block B Civic Centre, Main Street, Bray, Co. Wicklow.",Wicklow,-6.109462268,53.20128075,1
+473,Health Centre,Blessington,Blessington,"Kilbride Road, Blessington, Co. Wicklow.",Wicklow,-6.531261378,53.16947456,1
+474,Health Centre,Dunmanway,Dunmanway,"Main Street, Dunmanway, Co. Cork",Cork,-9.110101516,51.72316449,1
+475,Health Centre,Eyeries,Eyeries,"Eyeries, Co. Cork.",Cork,-9.956937967,51.69504696,1
+476,Health Centre,Glengarriff,Glengarriff,"Glengarriff, Co. Cork.",Cork,-9.550379566,51.74998163,1
+477,Health Centre,Goleen,Goleen,"Church Road, Goleen, Co. Cork.",Cork,-9.712738569,51.49472706,1
+478,Health Centre,Inchigeela,Inchigeela,"Inchigeela, Co. Cork.",Cork,-9.127172097,51.84193611,1
+479,Health Centre,Johnstown,Johnstown,"Johnstown, Macroom, Co. Cork.",Cork,-9.084114991,51.80969696,1
+480,Health Centre,Kealkil,Kealkil,"Kealkil, Co. Cork.",Cork,-9.386313694,51.74864953,1
+481,Health Centre,Kilcrohane,Kilcrohane,"Kilcrohane, Co. Cork",Cork,-9.703841295,51.58096279,1
+482,Health Centre,Leap,Leap,"Main Street, Leap, Co. Cork.",Cork,-9.140486824,51.58132707,1
+483,Health Centre,Rosscarbery,Rosscarbery,"Medical Centre, Rosscarbery, Co. Cork",Cork,-9.032357941,51.57691558,1
+484,Health Centre,Mountview,Mountview,"Shelerin Road, Clonsilla, Dublin 15.",Dublin,-6.408543391,53.38932901,1
+485,Health Centre,Mullingar,Mullingar,"Longford Road, Mullingar, Co. Westmeath.",Westmeath,-7.349009531,53.53352284,1
+486,Health Centre,Moyderwell,Moyderwell,"Tralee Health Centre, Moyderwell, Tralee, Co. Kerry",Kerry,-9.699635104,52.26727181,1
+487,Health Centre,Clontarf,Clontarf,"161 - 171 Vernon Avenue, Dublin 3.",Dublin,-6.196468964,53.36927951,1
+488,Health Centre,Schull,Schull,"Hospital Grounds, Schull, Co. Cork.",Cork,-9.545988999,51.52185863,1
+489,Health Centre,Skibbereen,Skibbereen,"Coolnagarrane, Skibbereen, Co. Cork.",Cork,-9.263587328,51.56289372,1
+490,Health Centre,Union Hall,Union Hall,"Main Street, Union Hall, Co. Cork.",Cork,-9.141257218,51.55829117,1
+491,Health Centre,Ballynoe,Ballynoe,"Ballynoe, Co. Cork.",Cork,-8.096874705,52.05870482,1
+492,Health Centre,Ballyclough,Ballyclough,"Community Hall, Ballyclough, Co. Cork.",Cork,-8.743603186,52.1671874,1
+493,Health Centre,Ballydesmond,Ballydesmond,"Credit Union Building, Ballydesmond, Co. Cork.",Cork,-9.240188188,52.18020388,1
+494,Health Centre,Buttevant,Buttevant,"Mercy Day Care Centre, Buttevant, Co. Cork.",Cork,-8.669842583,52.22920525,1
+495,Health Centre,Castletownroche,Castletownroche,"Community Hall, Castletownroche, Co. Cork.",Cork,-8.465478022,52.17167133,1
+496,Health Centre,Newtownbarry,Newtownbarry,"Newtownbarry, Charleville, Co. Cork.",Cork,-8.679015873,52.35729753,1
+497,Health Centre,FRC Broad Street,FRC Broad Street,"Family Resource Centre, Broad Street, Charleville, Co. Cork.",Cork,-8.681776069,52.35479456,1
+498,Health Centre,Rhode,Rhode,"Rhode, Co. Offaly.",Offaly,-7.198736182,53.34892362,1
+499,Health Centre,Cre House,Cre House,"Grange, Templemore Road, Roscrea, Co. Tipperary",Tipperary,-7.792349542,52.94391282,1
+500,Health Centre,Skerries,Skerries,"Thomas Hand Street, Skerries, Co. Dublin.",Dublin,-6.110593668,53.5791354,1
+501,Health Centre,Dromina,Dromina,"Community Centre, Dromina, Co. Cork.",Cork,-8.80176591,52.31402649,1
+502,Health Centre,Comm Hosp,Comm Hosp,"Community Hospital, Fermoy, Co. Cork.",Cork,-8.255912023,52.13901444,1
+503,Health Centre,Chapel Hill,Chapel Hill,"Chapel Hill, Fermoy, Co. Cork.",Cork,-8.28031996,52.13680329,1
+504,Health Centre,Blackwater,Blackwater,"Blackwater Day Centre, Fermoy, Co. Cork.",Cork,-8.277992645,52.13831415,1
+505,Health Centre,Freemount,Freemount,"Community Centre, Freemount, Co. Cork.",Cork,-8.884211421,52.27755939,1
+506,Health Centre,Glantane,Glantane,"Community Hall, Glantane, Co. Cork.",Cork,-8.748372268,52.10506423,1
+507,Health Centre,Glanworth,Glanworth,"Main Street, Glanworth, Co. Cork.",Cork,-8.356913707,52.18647021,1
+508,Health Centre,Wicklow,Wicklow,"Glenside Road, Wicklow Town, Co. Wicklow.",Wicklow,-6.035491321,52.97749785,1
+509,Health Centre,Portarlington Primary Care Centre,Portarlington Primary Care Centre,"Kilnacourt House, Bracklone Street, Portarlington, Co. Laois.",Laois,-7.178609362,53.15497684,1
+510,Health Centre,East City Primary Care Centre,East City Primary Care Centre,"Doughiska Road, Doughiska, Galway",Galway,-8.974826947,53.27988047,1
+511,Health Centre,Peter Street Primary Care Unit,Peter Street Primary Care Unit,"Laurence Town Centre, Peter Street, Drogheda, Co. Louth",Louth,-6.350697703,53.71593292,1
+512,Health Centre,Naas,Naas,"Vista Primary Care Unit, Ballymore Road, Naas, Co. Kildare",Kildare,-6.664131068,53.21078506,1
+513,Health Centre,Kanturk,Kanturk,"Community Hospital, Hospital Hill, Kanturk, Co. Cork.",Cork,-8.914609987,52.17608768,1
+514,Health Centre,Kildorrery,Kildorrery,"Limerick Road, Kildorrery, Co. Cork.",Cork,-8.428149756,52.24703218,1
+515,Health Centre,Killavullen,Killavullen,"Dispensary, Killavullen, Co. Cork.",Cork,-8.517567242,52.14513915,1
+516,Health Centre,Kilworth,Kilworth,"Main Street, Kilworth, Co. Cork.",Cork,-8.244771817,52.17564124,1
+517,Health Centre,Kiskeam,Kiskeam,"Community Centre, Kiskeam, Co. Cork.",Cork,-9.154897529,52.1765858,1
+518,Health Centre,Bank Place,Bank Place,"134 Bank Place, Mallow, Co. Cork.",Cork,-8.643999952,52.1366962,1
+519,Health Centre,Millmount,Millmount,"Millmount Avenue, Drumcondra, Dublin 9.",Dublin,-6.258585976,53.36975726,1
+520,Health Centre,Ballinteer,Ballinteer,"Ballinteer Avenue, Dublin 16.",Dublin,-6.252054011,53.2759161,1
+521,Health Centre,Gouldshill,Gouldshill,"Gouldshill House, Mallow, Co. Cork.",Cork,-8.661113096,52.11931368,1
+522,Health Centre,Newberry,Newberry,"Newberry Hospital, Kilvealaton East, Mallow, Co. Cork.",Cork,-8.684857637,52.12543138,1
+523,Health Centre,Norwood,Norwood,"Norwood Day Centre, Mallow, Co. Cork.",Cork,-8.650499885,52.13789134,1
+524,Health Centre,St. Joseph's,St. Joseph's,"St. Joseph's Road, Mallow, Co. Cork.",Cork,-8.640034133,52.13570042,1
+525,Health Centre,Comm Hosp,Comm Hosp,"Community Hospital, Millstreet, Co. Cork.",Cork,-9.077935289,52.05777844,1
+526,Health Centre,Claragh Road,Claragh Road,"Claragh Road, Millstreet, Co.Cork.",Cork,-9.067451201,52.05879233,1
+527,Health Centre,Drishane,Drishane,"Drishane Castle, Millstreet, Co. Cork.",Cork,-9.047815161,52.07763197,1
+528,Health Centre,Wellmount,Wellmount,"Wellmount Park, Finglas, Dublin 11.",Dublin,-6.311612108,53.38533115,1
+529,Health Centre,Court House,Court House,"Court House, Mitchelstown, Co. Cork.",Cork,-8.274517831,52.26682226,1
+530,Health Centre,Tearmon Ui Chaoimh,Tearmon Ui Chaoimh,"Tearmon Ui Chaoimh Day Centre, Mitchelstown, Co. Cork.",Cork,-8.27251156,52.26486882,1
+531,Health Centre,Newmarket,Newmarket,"Charleville Road, Newmarket, Co. Cork.",Cork,-8.99972741,52.21631429,1
+532,Health Centre,Newtown,Newtown,"Newtown, Co. Cork.",Cork,-9.446692251,51.68601586,1
+533,Health Centre,Abbeydorney,Abbeydorney,"Abbeydorney, Co. Kerry",Kerry,-9.690978895,52.34513947,1
+534,Health Centre,Annascaul,Annascaul,"Dr. Myers, Surgery, Annascaul, Co. Kerry",Kerry,-10.05171938,52.15195874,1
+535,Health Centre,Church Road,Church Road,"Church Road, Ardfert, Co. Kerry.",Kerry,-9.782255263,52.3268326,1
+536,Health Centre,Ballybunion,Ballybunion,"C/o Dr. Jim O' Sullivan, Ballybunion, Co. Kerry",Kerry,-9.673697394,52.51201955,1
+537,Health Centre,Ballyduff,Ballyduff,Ballyduff. Co. Kerry,Kerry,-9.665827144,52.45298577,1
+538,Health Centre,Ballyheigue,Ballyheigue,"Ballyheigue, Co. Kerry",Kerry,-9.834817871,52.39026605,1
+539,Health Centre,Ballylongford,Ballylongford,"Ballylongford, Co. Kerry",Kerry,-9.483426833,52.55050978,1
+540,Health Centre,Brosna,Brosna,"The Health Centre, Brosna, Co. Kerry",Kerry,-9.271363409,52.31284483,1
+541,Health Centre,Caherciveen,Caherciveen,"East End, Caherciveen, Co. Kerry.",Kerry,-10.22005709,51.9487766,1
+542,Health Centre,Camp,Camp,"Camp Cross, Tralee, Co. Kerry",Kerry,-9.91145187,52.22092037,1
+543,Health Centre,Tonachy House,Tonachy House,"Killarney Rd., Castleisland, Co. Kerry",Kerry,-9.466038939,52.23008645,1
+544,Health Centre,Castlemaine,Castlemaine,"Community Centre, Castlemaine, Co. Kerry",Kerry,-9.700484899,52.17254557,1
+545,Health Centre,Causeway,Causeway,"Marian Trc., Causeway, Co. Kerry",Kerry,-9.733200487,52.41138719,1
+546,Health Centre,Farranfore,Farranfore,"Farranfore, Co. Kerry",Kerry,-9.550209519,52.17186684,1
+547,Health Centre,Glenbeigh,Glenbeigh,"Kilnabrack Lower, Glenbeigh Co. Kerry",Kerry,-9.94468465,52.05505782,1
+548,Health Centre,Gneeveguilla,Gneeveguilla,"Gneeveguilla, Co. Kerry",Kerry,-9.271929388,52.11585943,1
+549,Health Centre,Kielduff,Kielduff,"Community Centre, Rathanny, Co. Kerry",Kerry,-9.605735024,52.29542078,1
+550,Health Centre,Kilgarven,Kilgarven,"Kilgarven, Co. Kerry",Kerry,-9.44222121,51.90361955,1
+551,Health Centre,Park Road,Park Road,"Park Rd., Killarney, Co. Kerry",Kerry,-9.485774151,52.06070188,1
+552,Health Centre,Knocknagoshel,Knocknagoshel,"Community Centre, Knocknagoshel, Co. Kerry",Kerry,-9.384870289,52.33061293,1
+553,Health Centre,Listowel,Listowel,"Grounds of Listowel Hospital, Co. Kerry",Kerry,-9.497622692,52.44824417,1
+554,Health Centre,Listowel OPD,Listowel OPD,"Hospital Grounds, Listowel, Co. Kerry",Kerry,-9.497622692,52.44824417,1
+555,Health Centre,Lixnaw,Lixnaw,"C/o Dr. Fahys Surgery, Lixnaw, Co. Kerry",Kerry,-9.617464108,52.40895015,1
+556,Health Centre,Moyvane,Moyvane,"Community Centre, Moyvane, Co. Kerry",Kerry,-9.36918619,52.50149151,1
+557,Health Centre,Portmagee,Portmagee,"Portmagee Village, Co. Kerry",Kerry,-10.36525632,51.88580098,1
+558,Health Centre,Rathmore,Rathmore,"Bleak House, Rathmore, Co. Kerry",Kerry,-9.250177429,52.07654625,1
+559,Health Centre,Scariff,Scariff,"Emlagh, Waterville, Co. Kerry",Kerry,-10.17170011,51.85276564,1
+560,Health Centre,Sneem,Sneem,"South Square, Sneem, Co. Kerry",Kerry,-9.899519682,51.83792169,1
+561,Health Centre,Tarbert,Tarbert,"Tarbert, Co. Kerry",Kerry,-9.381174333,52.57403163,1
+562,Health Centre,Waterville,Waterville,"Main Street, Waterville, Co. Kerry",Kerry,-10.17166276,51.82495797,1
+563,Health Centre,Bagenalstown,Bagenalstown,"Fair Green, Bagenalstown, Co. Carlow.",Carlow,-6.959463143,52.7014388,1
+564,Health Centre,Ballyhale,Ballyhale,"Ballyhale, Co. Kilkenny.",Kilkenny,-7.199416764,52.46850794,1
+565,Health Centre,Ballyragget,Ballyragget,"Chapel Avenue, Ballyragget, Co. Kilkenny.",Kilkenny,-7.3316548,52.78877527,1
+566,Health Centre,Bennettsbridge,Bennettsbridge,"Bennettsbridge, Co. Kilkenny.",Kilkenny,-7.180010161,52.59114658,1
+567,Health Centre,Castlecomer,Castlecomer,"Kilkenny Street, Castlecomer, Co. Kilkenny.",Kilkenny,-7.210404232,52.80017186,1
+568,Health Centre,Clogh,Clogh,"Clogh, Castlecomer, Co. Kilkenny.",Kilkenny,-7.163998977,52.86164661,1
+569,Health Centre,Coolbawn,Coolbawn,"Castlecomer, Co. Kilkenny.",Kilkenny,-7.17701672,52.82026828,1
+570,Health Centre,Freshford,Freshford,"Kilkenny Street, Freshford, Co. Kilkenny.",Kilkenny,-7.392793845,52.73249077,1
+571,Health Centre,Goresbridge,Goresbridge,"Barrack Street, Goresbridge, Co. Kilkenny.",Kilkenny,-6.994800473,52.63071986,1
+572,Health Centre,Gowran,Gowran,"Main Street, Gowran, Co. Kilkenny.",Kilkenny,-7.062983032,52.62998155,1
+573,Health Centre,Graiguenamanagh,Graiguenamanagh,"Convent Lane, Graiguenamanagh, Co. Kilkenny.",Kilkenny,-6.954361409,52.54210448,1
+574,Health Centre,Hacketstown,Hacketstown,"Moffets Lane, Hacketstown, Co. Carlow.",Carlow,-6.560876647,52.86510189,1
+575,Health Centre,Inistioge,Inistioge,"Inistioge, Co. Kilkenny.",Kilkenny,-7.061103057,52.48525037,1
+576,Health Centre,Johnstown,Johnstown,"Johnstown, Co. Kilkenny",Kilkenny,-7.559810117,52.7457137,1
+577,Health Centre,Kells,Kells,"Kells, Co. Kilkenny.",Kilkenny,-7.275020797,52.54025492,1
+578,Health Centre,Kilkenny,Kilkenny,"Community Care, James's Green, Kilkenny.",Kilkenny,-7.258674628,52.65141082,1
+579,Health Centre,Kilmanagh,Kilmanagh,"Kilmanagh, Co. Kilkenny.",Kilkenny,-7.424487047,52.61973833,1
+580,Health Centre,Kilmoganny,Kilmoganny,"Mill Street, Kilmoganny, Co. Kilkenny.",Kilkenny,-7.328282325,52.46176682,1
+581,Health Centre,Leighlinbridge,Leighlinbridge,"St. Lazerian's Street, Leighlinbridge, Co. Carlow.",Carlow,-6.980321239,52.73593872,1
+582,Health Centre,Lisdowney,Lisdowney,"Lisdowney, Co. Kilkenny.",Kilkenny,-7.391152561,52.79020683,1
+583,Health Centre,Marley,Marley,"Marley, Graiguenamanagh, Co. Kilkenny",Carlow,-6.903883189,52.5205053,1
+584,Health Centre,Myshall,Myshall,"Carlow Road, Myshall, Co. Carlow.",Carlow,-6.781812862,52.68715812,1
+585,Health Centre,Rathvilly,Rathvilly,"Phelan Street, Rathvilly, Co. Carlow.",Carlow,-6.690739372,52.87984641,1
+586,Health Centre,Rosbercon,Rosbercon,"Millbanks, Rosbercon, Via New Ross, Co. Kilkenny.",Kilkenny,-6.95678273,52.39532032,1
+587,Health Centre,Stoneyford,Stoneyford,"Stoneyford, Co. Kilkenny.",Kilkenny,-7.230070651,52.53674075,1
+588,Health Centre,Tinnahinch,Tinnahinch,"Graiguenamanagh, Co. Kilkenny.",Carlow,-6.954324879,52.53773037,1
+589,Health Centre,Tullaroan,Tullaroan,"Tullaroan, Co. Kilkenny.",Kilkenny,-7.437001333,52.66100985,1
+590,Health Centre,Tullow,Tullow,"Shillelagh Road, Tullow, Co. Carlow.",Carlow,-6.73041322,52.80371933,1
+591,Health Centre,Urlingford,Urlingford,"Main Street, Urlingford, Co. Kilkenny",Kilkenny,-7.578042141,52.72228813,1
+592,Health Centre,Windgap,Windgap,"Coolehill Upper, Windgap, Co. Kilkenny.",Kilkenny,-7.39869327,52.46048077,1
+593,Health Centre,Ardmore,Ardmore,"Rocky Road, Ardmore, Co. Waterford",Waterford,-7.725032406,51.94976722,1
+594,Health Centre,Ballyduff,Ballyduff,"Ballyduff Upper, Co. Waterford.",Waterford,-8.052641005,52.14769898,1
+595,Health Centre,Cappoquin,Cappoquin,"Cappoquin, Co. Waterford.",Waterford,-7.843007498,52.146103,1
+596,Health Centre,Clashmore,Clashmore,"Chapel Lane, Clashmore, Co. Waterford.",Waterford,-7.818481851,52.0093119,1
+597,Health Centre,Dungarvan,Dungarvan,"Saint Mary Street, Dungarvan, Co. Waterford.",Waterford,-7.621106497,52.08837881,1
+598,Health Centre,Dunmore East,Dunmore East,"Lower Dunmore, Dunmore East, Co. Waterford.",Waterford,-6.994978559,52.1555947,1
+599,Health Centre,Glenmore,Glenmore,"Robinstown, Glenmore, Co. Kilkenny.",Kilkenny,-7.028422853,52.35372226,1
+600,Health Centre,Kereen,Kereen,"Kereen, Co. Waterford.",Waterford,-7.795685245,52.08999093,1
+601,Health Centre,Kilmacow,Kilmacow,"Lower Kilmacow, Co. Kilkenny.",Kilkenny,-7.16631297,52.30306712,1
+602,Health Centre,Kilmacthomas,Kilmacthomas,"Hillside Crescent, Kilmacthomas, Co. Waterford.",Waterford,-7.425957274,52.20247674,1
+603,Health Centre,Kilmeaden,Kilmeaden,"Kilmeaden, Co. Waterford.",Waterford,-7.241298098,52.23182542,1
+604,Health Centre,Knockanore,Knockanore,"Knockanore, Co. Waterford.",Waterford,-7.891968734,52.05438804,1
+605,Health Centre,Lemybrien,Lemybrien,"Lemybrien, Co. Waterford.",Waterford,-7.523540995,52.17265112,1
+606,Health Centre,Mooncoin,Mooncoin,"Main Street, Mooncoin, Co. Kilkenny.",Kilkenny,-7.254044399,52.29203177,1
+607,Health Centre,Mullinavat,Mullinavat,"Garrandaragh, Mullinavat, Co. Kilkenny.",Kilkenny,-7.171199627,52.36848265,1
+608,Health Centre,Piltown,Piltown,"Main Street, Piltown, Co. Kilkenny.",Kilkenny,-7.332921516,52.35153173,1
+609,Health Centre,Portlaw,Portlaw,"Portlaw, Co. Waterford.",Waterford,-7.320490948,52.28791979,1
+610,Health Centre,Seskinane,Seskinane,"Seskinane, Touraneena, Ballinamult, Co. Waterford.",Waterford,-7.698704777,52.19324673,1
+611,Health Centre,Slieverue,Slieverue,"Airmount, Slieverue, Co. Kilkenny.",Kilkenny,-7.07008444,52.28481657,1
+612,Health Centre,Tallow,Tallow,"Convent Street, Tallow, Co. Waterford.",Waterford,-8.007358548,52.09577993,1
+613,Health Centre,Ballybeg,Ballybeg,"Community Centre, Ballybeg, Cork Road, Waterford.",Waterford,-7.142251963,52.23916016,1
+614,Health Centre,Doon,Doon,"Hse, Health Clinic, Kilmoylan, Co. Limerick",Limerick,-8.249824166,52.60350488,1
+615,Health Centre,Wexford,Wexford,"Community Services, Hse, Upper George's Street, Wexford",Wexford,-6.466508308,52.3400822,1
+616,Health Centre,Kinvara,Kinvara,"Public Health Nurse, Hse, Dungory West, Co. Galway",Galway,-8.933427861,53.14001663,1
+617,Health Centre,Mulranny,Mulranny,"Hse, Health Centre, Westport, Co. Mayo",Mayo,-9.775539695,53.90725493,1
+618,Health Centre,Lisacul,Lisacul,"Hse, Lissdaly Health Centre, Lissydaly, Ballaghadereen, Co. Roscommon",Roscommon,-8.642295661,53.85995961,1
+619,Health Centre,Bree,Bree,"Hse, Health Centre, Sheskin, Malin Head, Co. Donegal",Donegal,-7.319319127,55.35248731,1
+620,Health Centre,Roscrea,CrÕÔë© House,"Templemore Road, Roscrea, Co. Tipperary",Tipperary,-7.792963115,52.94571565,1
+621,Health Centre,Redhills,Redhills,"G.a.a. Club, Knockroe, Co. Cavan",Cavan,-7.322139593,54.10066819,1
+622,Health Centre,Churchtown,Churchtown,"Main Street, Mallow, Co. Cork",Cork,-8.731616962,52.27158366,1
+623,Health Centre,St. Frances,St. Frances,"Rathealy Road, Fermoy, Co. Cork",Cork,-8.270154567,52.14182819,1
+624,Health Centre,Liscarroll,Liscarroll,"Main Street, Co. Cork",Cork,-8.806333914,52.25999908,1
+625,Health Centre,Meelin,Meelin,"Knockduff Upper, Newmarket, Co. Cork",Cork,-9.033688191,52.2492329,1
+626,Health Centre,Milford,Milford,Co. Cork,Cork,-8.856660281,52.3410637,1
+627,Health Centre,Rathcormac,Rathcormac,"Main Street, Co. Cork",Cork,-8.283564868,52.07763715,1
+628,Health Centre,Ardfert,Ardfert,"Hse, Medical Centre, Farranwilliam, Co. Kerry",Kerry,-9.779590831,52.32540342,1
+629,Health Centre,Asdee,Asdee,Co. Kerry,Kerry,-9.559879842,52.55152924,1
+630,Health Centre,Caherdaniel,Caherdaniel,"An Post, Post Office, Co. Kerry",Kerry,-10.10083332,51.76963886,1
+631,Health Centre,Borris,Borris,"District Nurse, Hse, Crow Street Medical Centre, Lower Main Street, Co. Carlow",Carlow,-6.921306423,52.59819328,1
+632,Health Centre,Granard,Granard,"Carra, Granard, Co. Longford.",Longford,-7.487021157,53.78018863,1
+633,Health Centre,Bantry,Bantry,"The Quays, Bantry, Co. Cork.",Cork,-9.451075017,51.68009504,1
+634,Health Centre,Loughboy,Loughboy,"Springhill Health Centre, Waterford Road, Kilkenny",Kilkenny,-7.241688494,52.64161257,1
+635,Health Centre,Larkhill,Larkhill,"Collins Avenue Extension, Dublin 9.",Dublin,-6.250223057,53.38481405,1
+636,Health Centre,Swords,Swords,"Bridge Street, Swords, Co. Dublin.",Dublin,-6.221712789,53.45980489,1
+637,Health Centre,Kenmare,Kenmare,"The Medical Centre, Railway Road, Co. Kerry",Kerry,-9.581764061,51.88484504,1
+638,Health Centre,Howth,Howth,"Main Street, Howth, Co. Dublin.",Dublin,-6.065031284,53.38603432,1
+639,Health Centre,Terenure,Terenure,"68 Terenure Road North, Dublin 6.",Dublin,-6.283082296,53.31224312,1
+640,Health Centre,Killorglin,Killorglin,"Hse, Health Centre, 2 Mill Road, Co. Kerry",Kerry,-9.787816777,52.10826033,1
+641,Health Centre,Lucan,Lucan,"1a Sarsfield Park, Co. Dublin",Dublin,-6.448993922,53.35706249,1
+642,Health Centre,Strokestown,Strokestown,"Church Street, Strokestown, Co. Roscommon.",Roscommon,-8.109688233,53.7767834,1
+643,Health Centre,Kilcormac,Kilcormac,"Freagh, Kilcormac, Co. Offaly.",Offaly,-7.730888643,53.17567735,1
+644,Health Centre,Thomastown,Thomastown,"Lady's Well Street, Thomastown, Co. Kilkenny.",Kilkenny,-7.142151628,52.52771966,1
+645,Health Centre,Navan,Navan,"Child And Family Centre, County Clinic, Navan, Co. Meath.",Meath,-6.695332089,53.65089785,1
+646,Health Centre,Malahide,Malahide,"New Street, Malahide, Co. Dublin.",Dublin,-6.153915044,53.45100947,1
+647,Health Centre,Enfield,Enfield,Co. Meath,Meath,-6.833218448,53.414071,1
+648,Health Centre,Owenacurra Mental Health,Owenacurra,"Hse, Owenacurra Centre, The Green, Midleton, Co. Cork",Cork,-8.174575209,51.91742314,1
+649,Health Centre,Kinnegad,Kinnegad,Co. Westmeath.,Westmeath,-7.102587573,53.45445548,1
+650,Health Centre,Ballymore,Ballymore,"Moate Road, Ballymore, Co. Westmeath.",Westmeath,-7.680391112,53.4902249,1
+651,Health Centre,Kilbarrack,Kilbarrack,"Foxfield Crescent, Kilbarrack, Dublin 5.",Dublin,-6.155576837,53.38500308,1
+652,Health Centre,Ballyporeen,Ballyporeen,"Church Street, Ballyporeen, Co. Tipperary.",Tipperary,-8.099894312,52.27107845,1
+653,Health Centre,Dromahaire,Dromahaire,"Drumlease Estate, Dromahaire, Co. Leitrim",Leitrim,-8.294192934,54.22909404,1
+654,Health Centre,Lismore,Lismore,"Park's Road, Lismore, Co. Waterford.",Waterford,-7.927719209,52.13725277,1
+655,Health Centre,Ardfinnan,Ardfinnan,"68 Castle View, Ardfinnan, Clonmel, Co. Tipperary.",Tipperary,-7.888236614,52.30870861,1
+656,Health Centre,Youghal,Youghal,"3 Catherine Street, Youghal, Co. Cork.",Cork,-7.847920327,51.95528688,1
+657,Health Centre,Kilcock,Kilcock,"Whitestown House, Kilcock, Co. Kildare.",Kildare,-6.676550392,53.4051468,1
+658,Health Centre,Deansrath,Deansrath,"St. Cuthbert's Road, Clondalkin, Dublin 22.",Dublin,-6.424424626,53.32381873,1
+659,Health Centre,Ballygall,Ballygall,"Hse, Seamus Ennis Road, Dublin 11",Dublin,-6.29738953,53.39042286,1
+660,Health Centre,Rush,Rush,"41 Lower Main Street, Rush, Co. Dublin.",Dublin,-6.088012854,53.52160037,1
+661,Health Centre,Kingscourt,Kingscourt,"Kells Road, Kingscourt, Co. Cavan.",Cavan,-6.804250017,53.90117039,1
+662,Health Centre,Ballinameen,Ballinameen,"Knockglass, Ballinameen, Co. Roscommon.",Roscommon,-8.303246768,53.89693955,1
+663,Health Centre,Inisboffin,Inisboffin,"Middle Quarter, Inisboffin, Co. Galway.",Galway,-10.21020106,53.61383459,1
+664,Health Centre,Summerhill,Summerhill,"Summerhill Primary Care Centre, Summerhill, Co. Meath.",Meath,-6.731620838,53.48054685,1
+665,Health Centre,Innishannon,Innishannon,"Innishannon Medical Centre, Main Street, Innishannon, Co. Cork",Cork,-8.656309835,51.76468312,1
+666,Health Centre,Dunboyne,Dunboyne,"Dunboyne, Co. Meath",Meath,-6.472220176,53.41651799,1
+667,Health Centre,Tallow,Tallow,"Conna, Co. Cork.",Cork,-8.107418818,52.09333807,1
+668,Health Centre,Emo,Emo,"Emo, Co. Laois.",Laois,-7.209067035,53.09682068,1
+669,Health Centre,Fethard,New Ross,"Hse, Health Centre, Fethard-on-sea, Co. Wexford",Wexford,-6.850482979,52.19911663,1
+670,Health Centre,Edenderry,Edenderry,"Ofalia House, St. Mary's Street, Edenderry, Co. Offaly.",Offaly,-7.063181565,53.3358844,1
+671,Health Centre,Castletownbere,Castletownbere,"Bank Place, Castletownbere, Co. Cork.",Cork,-9.913150743,51.65026252,1
+672,Health Centre,Heatherside,Heatherside,"Heatherside Hospital, Doneraile, Co. Cork.",Cork,-8.598069391,52.27008351,1
+673,Health Centre,St. Anne's Road,St. Anne's Road,"St. Anne's Road, Killarney, Co. Kerry",Kerry,-9.508059366,52.06274761,1
+674,Health Centre,Markievicz House,,"Hse, Primary Care Centre, Barrack Street, Sligo",Sligo,-8.476026146,54.27706834,1
+675,Health Centre,Ballybrittas,Ballybrittas,"Main Street, Co. Laois",Laois,-7.135819497,53.10995828,1
+676,Health Centre,Milford,Milford,"Kyle House, Kyle, Co. Cork",Cork,-8.861159242,52.32510016,1
+677,Health Centre,Castlelyons,Castlelyons,"1 Main Street, Co. Cork",Cork,-8.235390436,52.08939831,1
+678,Health Centre,Boherbue,Boherbue,"The Corner House, 18 Main Street, Co. Cork",Cork,-9.069668021,52.15899833,1
+679,Health Centre,Newtownmountkennedy,Newtownmountkennedy,"Primary Care Centre, Newtownmountkennedy, Co. Wicklow.",Wicklow,-6.114928296,53.09041125,1
+680,Health Centre,Moate,Moate,"The Newtown, Moate, Co. Westmeath.",Westmeath,-7.715178043,53.39571692,1
+681,Health Centre,Monasterevin,Monasterevin,Co. Kildare.,Kildare,-7.057882508,53.14157954,1
+682,Health Centre,Killenaule,Killenaule,"River Street, Killenaule, Co. Tipperary.",Tipperary,-7.67094705,52.56882758,1
+683,Health Centre,College Road,College Road,"Castleisland, Co. Kerry",Kerry,-9.457495706,52.23430944,1
+684,Health Centre,Mountmellick,Mountmellick,Co. Laois.,Laois,-7.324574831,53.1120745,1
+685,Health Centre,Castleblaney,Castleblaney,"Thomas Street, Castleblaney, Co. Monaghan.",Monaghan,-6.734818645,54.11920344,1
+686,Health Centre,Ballydehob,Ballydehob,"The Parade, Ballydehob, Co. Cork.",Cork,-9.462391177,51.56248813,1
+687,Health Centre,Mizen Primary Care Centre,,"Ardmanagh Road, Schull, Co. Cork",Cork,-9.548794558,51.52800438,1
+688,Health Centre,Glencrow,Glencrow,"Moville, Co. Donegal.",Donegal,-7.045222865,55.18880405,1
+689,Health Centre,Ionad SlÕÔÕÅinte Inis Bigil,Inishbiggle,"Inis Bigil, Co. Mhaigh Eo",Mayo,-9.903517434,54.00013006,1
+690,Health Centre,Ionad SlÕÔÕÅinte BÕÔë©al an Mhuirthead,Comm Hosp,"BÕÔë©al an Mhuirthead, Co. Mhaigh Eo",Mayo,-9.986331546,54.2282834,1
+691,Health Centre,Ionad SlÕÔÕÅinte Bhaile na hAbhann,Ballinahown,"An Tulach, Bhaile na hAbhann, Co. na Gaillimhe",Galway,-8.489987676,53.4836066,1
+692,Health Centre,Ionad SlÕÔÕÅinte Bhaile na Cille,Ballynakill,"Bhaile na Cille, Co. na Gaillimhe",Galway,-8.807398822,53.00286387,1
+693,Health Centre,Ionad SlÕÔÕÅinte Chamuis,Camus,"Camus, Co. na Gaillimhe",Galway,-9.547610264,53.37455293,1
+694,Health Centre,Ionad SlÕÔÕÅinte Charna,Carna,"Carna, Co. na Gaillimhe",Galway,-9.828190523,53.3235812,1
+695,Health Centre,Ionad SlÕÔÕÅinte an FhÕÔÕÅirche,Clonbur,"An FhÕÔÕÅirche, Co. na Gaillimhe",Galway,-9.363178137,53.54487194,1
+696,Health Centre,Ionad SlÕÔÕÅinte Inis MÕÔ_r ,Inishmor,"Cill RonÕÔÕÅin, Inis MÕÔ_r, Co. na Gaillimhe",Galway,-9.663784428,53.10442791,1
+697,Health Centre,Ionad SlÕÔÕÅinte Ros Muc,Rosmuc,"Ros Muc, Co. na Gaillimhe",Galway,-9.624549915,53.364439,1
+698,Health Centre,Ionad SlÕÔÕÅinte an SpidÕÔë©il,Spiddal,"An SpidÕÔë©al, Co. na Gaillimhe",Galway,-9.305596281,53.245126,1
+699,Health Centre,Ionad SlÕÔÕÅinte OileÕÔÕÅn ThoraÕÔ_,Tory Island,"An Baile Thiar, OileÕÔÕÅn ThoraÕÔ_, Co. DhÕÔë_n Na nGall",Donegal,-8.224312624,55.26424221,1
+700,Health Centre,OileÕÔÕÅn ClaÕÔë©ire,Cape Clear,"Cape Clear Island, Co. ChorcaÕÔ_",Cork,-9.504697229,51.43598354,1
+701,Health Centre,Ionad SlÕÔÕÅinte Daingean UÕÔ_ ChÕÔë_is,Dingle,"Hospital Grounds, Dingle, Co. Kerry",Kerry,-10.27498619,52.14471896,1
+702,Health Centre,Daingean UÕÔ_ ChÕÔë_is PCC,Dingle PCC,"Green St., Dingle, Co. Kerry",Kerry,-10.27019862,52.14163936,1
+703,Health Centre,Ionad SlÕÔÕÅinte BÕÔë©al an Mhuirthead,,"OspidÕÔë©al Pobail BhÕÔë©al an Mhuirthead, BÕÔë©al an Mhuirthead Co. Mhaigh Eo",Mayo,-9.986331546,54.2282834,1
+704,Health Centre,Ionad SlÕÔÕÅinte Inis MeÕÔÕÅin,Inishmaan,"Inis MeÕÔÕÅin, Co. na Gaillimhe",Galway,-9.584228824,53.08509853,1
+705,Health Centre,Ionad SlÕÔÕÅinte Inis OÕÔ_rr,Inisheer,"Inis OÕÔ_rr, Co. na Gaillimhe",Galway,-9.524856908,53.06694705,1
+706,Health Centre,Ionad SlÕÔÕÅinte BÕÔë©al ÕÔëÅtha na mBreac,Kilmeelickin,"BÕÔë©al ÕÔëÅtha na mBreac, An MÕÔÕÅm, Co. na Gaillimhe",Galway,-9.613644251,53.53682533,1
+707,Health Centre,Ionad SlÕÔÕÅinte Anagaire,Annagry,"Anagaire, Co. DhÕÔë_n na nGall",Donegal,-8.32758865,55.02120643,1
+708,Health Centre,Ionad SlÕÔÕÅinte ÕÔëÅrainn MhÕÔ_r,Arranmore,"ÕÔëÅrainn MhÕÔ_r, Co. DhÕÔë_n na nGall",Donegal,-8.506307612,54.97795305,1
+709,Health Centre,Ionad SlÕÔÕÅinte Baile na Finne,Fintown,"Baile na Finne, Co. DhÕÔë_n na nGall",Donegal,-8.11919927,54.86757802,1
+710,Health Centre,Grosvenor Court,Grosvenor Court,"Killarney, Co. Kerry",Kerry,-9.509624437,52.06141776,1
+711,Health Centre,Longford,Longford,"Dublin Road, Longford Town.",Longford,-7.78512909,53.72363998,1
+712,Health Centre,Fethard,Fethard,"Rocklow Road, Fethard, Clonmel, Co. Tipperary.",Tipperary,-7.695976683,52.46666042,1
+713,Health Centre,Ionad SlÕÔÕÅinte Leitir MÕÔ_r,Lettermore,"Leitir MÕÔ_r, Co. na Gaillimhe",Galway,-9.65312986,53.29054972,1
+714,Health Centre,Ionad SlÕÔÕÅinte An tSlÕÔë©ibhe Riabhaigh,Slievereagh,"An Sliabh Riabhach, Baile BhÕÔë_irne, Co. ChorcaÕÔ_",Cork,-9.168480916,51.94434323,1
+715,Health Centre,Ionad SlÕÔÕÅinte na Rinne,Ring,"Halla Pobail, An Rinn, Co. Phort LÕÔÕÅirge.",Waterford,-7.590503134,52.0480938,1
+716,Health Centre,Ionad SlÕÔÕÅinte Chill Charthaigh,Kilcar,"PrÕÔ_omhshrÕÔÕÅid, Cill Charthaigh, Co. DhÕÔë_n na nGall",Donegal,-8.591077273,54.6322952,1
+717,Health Centre,Ionad SlÕÔÕÅinte na Carraige,Carrick,"Charraig, Co. DhÕÔë_n na nGall",Donegal,-8.631308381,54.65701316,1
+718,Health Centre,Ionad SlÕÔÕÅinte Gleann Cholm Cille,Glencolmcille,"Ghleann Cholm Cille, Co. DhÕÔë_n na nGall",Donegal,-8.71814561,54.70922502,1
+719,Health Centre,Ionad SlÕÔÕÅinte Ard an RÕÔÕÅtha,Ardara,"BÕÔ_thar Phort Nua, Ard an RÕÔÕÅtha, Co. DhÕÔë_n na nGall",Donegal,-8.410309028,54.76589965,1
+720,Health Centre,Ionad SlÕÔÕÅinte Leitir Mhic an Bhaird,Lettermacaward,"Leitir Mhic an Bhaird, Co. DhÕÔë_n na nGall",Donegal,-8.307580267,54.855999,1
+721,Health Centre,An ClochÕÔÕÅn Liath,Dungloe,"Otharlann Ceantair an ChlochÕÔÕÅin LÕÔë©ith, An ClochÕÔÕÅn Liath, Co. DhÕÔë_n na nGall.",Donegal,-8.357646208,54.9519574,1
+722,Health Centre,Ionad SlÕÔÕÅinte Ailt an ChorrÕÔÕÅin,Burtonport,"Ailt an ChorrÕÔÕÅin, Leitir Ceanainn, Co. DhÕÔë_n na nGall",Donegal,-8.438300238,54.98461369,1
+723,Health Centre,Ionad SlÕÔÕÅinte DhoirÕÔ_ Beaga,Derrybeg,"Srath na Corcrach, Co. DhÕÔë_n na nGall",Donegal,-8.290288636,55.08776901,1
+724,Health Centre,Ionad SlÕÔÕÅinte Bhun na Leaca,Brinlack,"Bun na Leaca, Co. DhÕÔë_n na nGall",Donegal,-8.260312606,55.12600221,1
+725,Health Centre,Ionad SlÕÔÕÅinte DhÕÔë_n Fionnachaidh,Dunfanaghy,"SrÕÔÕÅid an PhÕÔ_na, DÕÔë_n Fionnachaidh, Co. DhÕÔë_n na nGall",Donegal,-7.971199566,55.18189144,1
+726,Health Centre,Ionad SlÕÔÕÅinte Charraig Airt,Carrigart,"PÕÔÕÅirc an Mhaoil Rua, Carraig Airt, Co. DhÕÔë_n na nGall",Donegal,-7.791592067,55.17671423,1
+727,Health Centre,Ionad SlÕÔÕÅinte an Chraoslaigh,Creeslough,"An Craoslach, Co. DhÕÔë_n na nGall",Donegal,-7.909979352,55.12275241,1
+728,Health Centre,Ionad SlÕÔÕÅinte Acla,Achill,"Acaill, Co. Mhaigh Eo",Mayo,-9.92966569,53.93024334,1
+729,Health Centre,Ionad SlÕÔÕÅinte Ghaoth SÕÔÕÅile ,Geesala,"Gaoth SÕÔÕÅile, Co. Mhaigh Eo",Mayo,-9.902960039,54.11491488,1
+730,Health Centre,Ionad SlÕÔÕÅinte Ghleann na Muaidhe,Glenamoy,"Gleann na Muaidhe, Co. Mhaigh Eo",Mayo,-9.688125812,54.24106951,1
+731,Health Centre,Ionad SlÕÔÕÅinte hEachlÕÔë©ime,Aughleam,"EachlÕÔë©im, Co. Mhaigh Eo",Mayo,-10.10212346,54.11824362,1
+732,Health Centre,Ionad SlÕÔÕÅinte Mhaigh Cuilinn,Moycullen,Maigh Cuilinn Co. na Gaillimhe,Galway,-9.174533588,53.33382314,1
+733,Health Centre,Ionad SlÕÔÕÅinte Choill SÕÔÕÅile,Kylesalia,"Coill SÕÔÕÅile, Co. na Gaillimhe",Galway,-9.710397117,53.35397779,1
+734,Health Centre,Ionad SlÕÔÕÅinte an Chaiseal,Cashel,"Leitheanach, Caiseal, Co. na Gaillimhe.",Galway,-9.794512469,53.41480111,1
+735,Health Centre,"Ionad SlÕÔÕÅinte Chloch na RÕÔ_n,",Roundstone,"8 Faiche an Aonaigh, BÕÔ_thar an ChÕÔ_sta, Cloch na RÕÔ_n, Co. na Gaillimhe.",Galway,-9.920728649,53.39405479,1
+736,Health Centre,Ionad SlÕÔÕÅinte Sraith Salach,Recess,An Sraith Salach Co na Gaillimhe,Galway,-9.740080307,53.46720522,1
+737,Health Centre,Ionad SlÕÔÕÅinte Fhionnaithe,Finney,"Teach na Sagart, Fionnaithe, Co. Maigh Eo",Mayo,-9.479135264,53.56781745,1
+738,Health Centre,Ionad SlÕÔÕÅinte Thuar Mhic ÕÔÕ_adaigh ,Tourmakeady,"Tuar Mhic ÕÔÕ_adaigh, Co. Mhaigh Eo",Mayo,-9.369707575,53.65095495,1
+739,Health Centre,Ionad SlÕÔÕÅinte Bhaile an Sceilg,Ballinskelligs,"Baile an Sceilg, Co. ChiarraÕÔ_",Kerry,-10.27875823,51.82262639,1
+740,Health Centre,Ionad SlÕÔÕÅinte na MuirÕÔ_,Muirreagh,"An MhuirÕÔ_och, Baile na nGall, Co. ChiarraÕÔ_",Kerry,-10.36317388,52.18663086,1
+741,Health Centre,Ionad SlÕÔÕÅinte ChÕÔë© BhrÕÔë©anainn/an ClochÕÔÕÅn,Brandon/Cloghane,"Ionad Pobail, CÕÔë© BhrÕÔë©anainn, Co. ChiarraÕÔ_",Kerry,-10.1832545,52.23550676,1
+742,Health Centre,Castlerea,Castlerea,"Hse, Primary Care Centre, Knock Road, Co. Roscommon",Roscommon,-8.506319095,53.77017326,1
+743,Health Centre,Clonmel,Clonmel,"Western Road, Clonmel, Co. Tipperary.",Tipperary,-7.704604935,52.35369057,1
+744,Health Centre,Cabra,Cabra,"Quarry Road, Cabra, Dublin 7.",Dublin,-6.288924155,53.36466226,1
+745,Health Centre,Bandon,Bandon,"GULLY, CO. CORK",Cork,-8.750662564,51.73686975,1
+746,Health Centre,Ballinasloe,Ballinasloe,"Brackernagh, Ballinasloe, Co. Galway",Galway,-8.230701645,53.32860764,1
+747,Health Centre,Roscommon Primary Care Centre,,"GOLF LINKS ROAD, ROSCOMMON",Roscommon,-8.188076521,53.62744316,1
+748,Health Centre,Newbridge,Newbridge,"Newbridge Health Centre, Henry Street, Newbridge, Kildare",Kildare,-6.802197875,53.18035186,1
+749,Health Centre,Kells,Kells,"NAVAN ROAD, CO. MEATH",Meath,-6.854396528,53.72260309,1
+750,Health Centre,Kinsale,Kinsale,"HSE, HEALTH CENTRE, MARKET LANE, CO. CORK",Cork,-8.525292624,51.70620492,1
+751,Health Centre,Wicklow Primary Care Centre,,"Knockrobin, Wicklow Town, Co. Wicklow",Wicklow,-6.071991991,52.995249,1
+752,Health Centre,Donnybrook,,"HSE COMMUNITY CARE, VERGEMOUNT HALL, CLONSKEAGH ROAD, DUBLIN 6",Dublin,-6.240666798,53.31623181,1
+753,Health Centre,Leopardstown Primary Care Centre,Leopardstown Primary Care Team,"Unit 12 Leopardstown Shopping Centre, Ballyogan Avenue, Dublin 18.",Dublin,-6.197485956,53.25924337,1
+754,Health Centre,Ranelagh Primary Care Centre,Ranelagh PCC,"22-26 Sandford Road, Ranelagh, Dublin 6",Dublin,-6.248653091,53.32299094,1
+755,Health Centre,Shillelagh,Shillelagh,"Arklow, Co. Wicklow.",Wicklow,-6.534563018,52.75573337,1
+756,Health Centre,Blackrock,Blackrock,"George's Avenue, Blackrock, Co. Dublin.",Dublin,-6.178758057,53.3012203,1
+757,Health Centre,Cabinteely,Cabinteely,"Meadowvale, Clonkeen Road, Blackrock, Co. Dublin.",Dublin,-6.15537994,53.27056991,1
+758,Health Centre,Dun Laoghaire,Dun Laoghaire,"Centenary House, 35 York Road, Dun Laoghaire, Co. Dublin.",Dublin,-6.144255418,53.28970888,1
+759,Health Centre,Dalkey,Dalkey,"Kilbegnet Close, Dalkey, Co. Dublin.",Dublin,-6.106181096,53.2767486,1
+760,Health Centre,Shankill,Shankill,"Lower Road, Shankill, Co. Dublin.",Dublin,-6.126203781,53.23013567,1
+761,Health Centre,Stillorgan,Stillorgan,"St. Brigids, Church Road, Stillorgan, Co. Dublin.",Dublin,-6.195220816,53.28409088,1
+762,Health Centre,Mallow,12 Fair Street,"12/14 Fair Street Lower, Mallow, Co. Cork.",Cork,-8.643937612,52.13735699,1
+763,Health Centre,Mallow,20 West End,"20 West End, Mallow, Co. Cork.",Cork,-8.648375889,52.13783331,1
+764,Health Centre,Mallow,31 Fair Street,"31/32 Fair Street Upper, Mallow, Co. Cork.",Cork,-8.643607266,52.1383796,1
+765,Health Centre,Mallow,9 West End,"9 West End, Mallow, Co. Cork.",Cork,-8.648778236,52.13786752,1
+766,Health Centre,Balally ,Dundrum Health Centre,"HSE, Rockfield Medical Campus, Overend Way, Dublin 16",Dublin,-6.236530619,53.28604361,1
+767,Health Centre,Ballyconnell ,Ballyconnell CSC,"Breffni Care Centre, Ballyconnell, Co. Cavan",Cavan,-7.583669338,54.11786726,1
+768,Health Centre,Borrisokane Primary Care Centre,Borrisokane PCC,"Convent Lane, Borrisokane",Tipperary,-8.128995946,52.99748816,1
+769,Health Centre,Carlow ,Carlow,"Athy Road, Carlow",Carlow,-6.925183205,52.83682051,1
+770,Health Centre,Chamber House ,Chamber House Health Centre Tallaght,"Chamber House, Chamber Square, Tallaght, Dublin 24",Dublin,-6.374743937,53.28844422,1
+771,Health Centre,"Cherry Orchard, Primary Care Centre",Cherry Orchard,"Ballyfermot, Dublin 10.",Dublin,-6.372682237,53.33686584,1
+772,Health Centre,Churchtown ,,"HSE, UNIT 8/9, NUTGROVE RETAIL PARK, NUTGROVE AVENUE, DUBLIN 14",Dublin,-6.267403495,53.29254722,1
+773,Health Centre,Douglas ,Douglas,"Community Centre, Douglas, Cork",Cork,-8.43686367,51.87339699,1
+774,Health Centre,Kilmaley ,Kilmaley Health Centre,"An Cluainin, Kilmaley, Ennis, Co Clare",Clare,-9.10863744,52.82128046,1
+775,Health Centre,Doneraile,Main Street,"Main Street, Doneraile, Co. Cork.",Cork,-8.584773548,52.21683071,1
+776,Health Centre,Belturbet,Main Street,"Main Street, Belturbet, Co. Cavan.",Cavan,-7.441716567,54.10156229,1
+777,Health Centre,Greystones,Greystones,"Victoria Road, Greystones, Co. Wicklow.",Wicklow,-6.069184226,53.14975223,1
+778,Health Centre,Midleton ,,"Health Centre, Hse, Midleton Community Hospital, Midleton, Co. Cork",Cork,-8.172798856,51.91775702,1
+779,Health Centre,Milford ,Milford Health Centre,"Castletroy, Co. Limerick",Limerick,-8.573709442,52.67079596,1
+780,Health Centre,Ardee,Primary Care Services,"St. Brigids Complex, Ardee, Co. Louth",Louth,-6.538265684,53.85421467,1
+781,Health Centre,Cavan,Townhall Street,"Townhall Street, Cavan Town",Cavan,-7.361372606,53.99129055,1
+782,Health Centre,Mount Alvernia,Mt. Alvernia,"Mount Alvernia Hospital, Mallow, Co. Cork.",Cork,-8.684624792,52.12435078,1
+783,Health Centre,Rathdrum,Rathdrum,"Fair Green, Rathdrum, Co. Wicklow.",Wicklow,-6.236375215,52.93190172,1
+784,Health Centre,Loughlinstown,Loughlinstown,"Loughlinstown Drive, Loughlinstown, Co. Dublin.",Dublin,-6.128600831,53.2473542,1
+785,Health Centre,Sallynoggin,Sallynoggin,"1 Oakdale Drive, Upper Glenageary Road, Dun Laoghaire, Co. Dublin.",Dublin,-6.137961836,53.28066534,1
+786,Health Centre,Tinahely,Tinahely,"Barton Street, Tinahely, Arklow, Co. Wicklow.",Wicklow,-6.465118689,52.79793149,1
+787,Health Centre,New Ross ,New Ross Health Centre,"Hospital Grounds, New Ross, Co Wexford",Wexford,-6.937790724,52.38934443,1
+788,Health Centre,Baggot Street,Baggot Street,"Baggot Street Community Hospital, 18 Upper Baggot Street, Dublin 4.",Dublin,-6.244046162,53.33384299,1
+789,Health Centre,Newcastlewest ,Newcastlewest Disp.,"Newcastlewest, Co. Limerick.",Limerick,-9.058769749,52.45288322,1
+790,Health Centre,Mallow,O'Brien Street,"O'Brien Street, Mallow, Co. Cork.",Cork,-8.64250417,52.13660504,1
+791,Health Centre,Falcarragh,Station Road,"Station Road, Falcarragh, Co. Donegal.",Donegal,-8.103799816,55.13541241,1
+792,Health Centre,Cavan,The Arcade,"The Arcade, Main Street, Cavan",Cavan,-7.35948919,53.9899236,1
+793,Health Centre,Ballinamore,Ballinamore,"High Street, Ballinamore, Carrick-on-Shannon, Co. Leitrim.",Leitrim,-7.800860613,54.05247882,1
+794,Health Centre,Cashel Road,Cashel Road,"HSE, SAINT COLUMBA'S, ARMAGH ROAD, DUBLIN 12",Dublin,-6.309022959,53.32025238,1
+795,Health Centre,Loughrea,,"St. Brendan's Campus, Lake Road, Loughrea, Co. Galway",Galway,-8.56428889,53.18937112,1
+796,Health Centre,Mallow,Solas Nua,"Solas Nua Residential Home, Mallow, Co. Cork.",Cork,-8.641303831,52.14505029,1
+797,Health Centre,Virginia ,Virginia CSC,"Dublin Rd., Virginia, Co. Cavan",Cavan,-7.067624898,53.83163002,1
+798,Health Centre,Tramore Primary Care Centre,Tramore,"SUMMERHILL CENTRE, SUMMERHILL, TRAMORE, CO. WATERFORD",Waterford,-7.161800425,52.16438203,1
+799,Health Centre,Lucan,Rosse Court Resource Centre,"Rosse Court Resource Centre, Balgaddy Road, Lucan, Co. Dublin",Dublin,-6.41068246,53.34069729,1
+800,Health Centre,Trim Primary Care Centre,,"HSE, KNIGHTSBRIDGE NURSING HOME, LONGWOOD ROAD, TRIM, CO. MEATH",Meath,-6.79722095,53.54632252,1
+801,Health Centre,Eyrecourt,Eyrecourt,"The Square, Eyrecourt, Co. Galway",Galway,-8.135573443,53.20171612,1
+802,Health Centre,North Strand,North Strand,Dublin 1.,Dublin,-6.245926368,53.35569549,1
+803,Health Centre,Crumlin,Crumlin,"HSE, OLD COUNTY ROAD HEALTH CENTRE, 57 OLD COUNTY ROAD, DUBLIN 12",Dublin,-6.301861402,53.32881478,1
+804,Health Centre,Curlew Road,Curlew Road,"HSE, HEALTH CENTRE, DUBLIN 12",Dublin,-6.320516013,53.32929919,1
+805,Health Centre,Callan,Callan,Co. Kilkenny.,Kilkenny,-7.389291315,52.54337486,1
+806,Health Centre,Ionad SlÕÔÕÅinte Gaoth Dobhair,,"An Bunbeag, Co. DhÕÔë_n na nGall",Donegal,-8.301500204,55.06039561,1
+807,Health Centre,Castlegregory,Castlegregory,"Dr. Sills Surgery, Castlegregory, Co. Kerry",Kerry,-10.02155706,52.25659052,1
+808,Health Centre,Ionad SlÕÔÕÅinte na CeathrÕÔë_ Rua,Carraroe,"CeathrÕÔë_ Rua, Co. Na Gaillimhe.",Galway,-9.606641252,53.26117939,1
+809,Health Centre,Cuan Barra,Dun Lua,"BÕÔë©al ÕÔëÅtha an Ghaorthaidh, Co. ChorcaÕÔ_",Cork,-9.235828879,51.84794886,1
+810,Health Centre,Ionad SlÕÔÕÅinte an Seanphobal,Old Parish,"LoiscreÕÔÕÅn, An Seanphobal, Co. Phort LÕÔÕÅirge",Waterford,-7.622411836,52.01496968,1
+811,Health Centre,Ardee,Ardee,"Market Street, Ardee, Co. Louth",Louth,-6.540591117,53.85793783,1
+812,Health Centre,St. Brendan's,St. Brendan's,"Adapt House, Donnellan's Buildings, Rosbrien, Limerick.",Limerick,-8.631155068,52.65214626,1
+813,Health Centre,Clane,Clane,"ABBEYLANDS MEDICAL CENTRE, ABBEYLANDS SHOPPING CENTRE, ABBEYLANDS, CO. KILDARE",Kildare,-6.682504667,53.29008186,1
