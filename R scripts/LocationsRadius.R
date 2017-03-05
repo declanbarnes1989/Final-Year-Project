@@ -60,6 +60,13 @@ data = data.frame(
   latitude = as.numeric(leinster$lat_ycord)
 )
 
+#Create a pop up for each point on the map
+map_popup <- paste0("<strong>HSE Support Centre: </strong>",
+                      leinster$`Service name`,
+                    "<br><strong>Services Provided: </strong>", 
+                      leinster$`Service name`, 
+                      "<br><strong>Address: </strong>", 
+                      leinster$Address)
 
 #Plot current centre locations
 m <- leaflet() %>%
@@ -70,11 +77,12 @@ m <- leaflet() %>%
       lat = ~lat_ycord, radius=.5, color="black") %>% 
 
   addCircles(data = leinster, lng = ~long_xcord, 
-      lat = ~lat_ycord, popup = leinster$Address,
+      lat = ~lat_ycord, popup = map_popup,
       radius = 3218.69, fillOpacity = 0.3, #3218.69 = 2 miles
       color = 'black', fillColor = 'red',weight = 1, label=leinster$`Service name`) %>% 
   
   addLegend("bottomright", colors= "red", labels="Current HSE Support Centres",
              title="Location: Leinster,Ireland")
 
-m  # Print the map
+# Print the map
+m
