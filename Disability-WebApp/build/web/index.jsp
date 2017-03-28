@@ -34,11 +34,11 @@
                     <div id="wrapper">
                         <ul class="nav">
                             <li class="fb" onclick="location.href = 'chart.jsp';">
-                                <a href="chart.jsp"><img class="icon" src="Images/location.png" width="80px" height="50px" alt=""></a>
+                                <a href="Analysis.jsp"><img class="icon" src="Images/location.png" width="80px" height="50px" alt=""></a>
                                 <span>Identify new HSE support centres</span>
                             </li>
                             <li class="gp" onclick="location.href = 'Analysis.jsp';">
-                                <a href="chart.jsp"><img class="icon" src="Images/analysis.png" width="80px" height="50px" alt=""></a>
+                                <a href="Analysis.jsp"><img class="icon" src="Images/analysis.png" width="80px" height="50px" alt=""></a>
                                 <span>Disability Analysis</span>
                             </li>
                         </ul>

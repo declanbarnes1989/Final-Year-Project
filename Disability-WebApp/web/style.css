@@ -109,7 +109,7 @@ a:link:hover {
 }
 .nav li{
     width:320px;
-    height:200px;
+    height:100px;
     display:inline-block;
     cursor:pointer;
     transition:all 0.4s;
@@ -132,7 +132,7 @@ a:link:hover {
 
 img.icon{
     background:rgba(255, 255, 255, 0.4);
-    padding:14px;
+    padding:1px;
     border-radius:100%;
     margin:30px auto;
     display:block;
@@ -151,7 +151,7 @@ img.icon{
     text-align:center;
     font-weight:bold;
     display:inline-block;
-    color:rgba(255, 255, 255, 1);
+    color: #000;
     font-size:15px;
     transition:padding-top 0.4s;
     -webkit-transition:padding-top 0.4s;

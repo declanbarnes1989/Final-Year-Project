@@ -1,0 +1,93 @@
+setwd("/Users/declanbarnes/Documents/FinalYearProject/DataSets/PopulationGrid")
+
+library(rgdal)
+library(mapview)
+library(sp)
+library("rgeos")
+library(maptools)
+library(ggplot2)
+library(plyr)
+library(leaflet)
+
+
+data = readOGR("Census2011_Small_Areas.shp")
+#View(data)
+
+#Subset to show only Leinster
+newdata <- subset(data, data$COUNTYNAME=='Dun Laoghaire-Rathdown' | data$COUNTYNAME=='South Dublin' | data$COUNTYNAME=='Dublin City' | data$COUNTYNAME=='Carlow County' | data$COUNTYNAME=='Dublin County' |
+                    data$COUNTYNAME=='Kildare County' | data$COUNTYNAME=='Kilkenny County' |
+                    data$COUNTYNAME=='Laois County' | data$COUNTYNAME=='Longford County' |
+                    data$COUNTYNAME=='Louth County' | data$COUNTYNAME=='Meath County' |
+                    data$COUNTYNAME=='Offaly County' | data$COUNTYNAME=='Westmeath County' |
+                    data$COUNTYNAME=='Wexford County' | data$COUNTYNAME=='Wicklow County' |
+                    data$COUNTYNAME=='Fingal')
+
+shapeData <- spTransform(newdata, CRS("+proj=longlat +datum=WGS84 +no_defs"))
+
+
+#Connect to MySQL using credentials
+con <- dbConnect(MySQL(), user="disabilitydb", password="disability1989_", dbname="disabilitydb", host="mysql3.gear.host")
+
+#SQL Query to find the amount of disabled people(Male & Female) in each county in Ireland.
+query <- dbSendQuery(con, "Select * From disabilitydb.healthcentres;")
+
+#fetch data, number of rows=1822
+centres <- fetch(query, n=1822)
+
+#check that the fetchhas gotten everything
+isFinished <- dbHasCompleted(query)
+
+#convert data into a data-frame
+data.frame(centres)
+
+#check data
+centres
+
+#subset data to only include Leinster
+leinster <- subset(centres, County =="Wicklow" | County =="Wexford" | County =="Dublin" | County =="Kildare" 
+                   | County =="Meath" | County =="Carlow" | County =="Kilkenny" 
+                   | County =="Laois" | County =="Offaly" | County =="Westmeath" 
+                   | County =="Longford" | County =="Louth")
+
+#Create data frame
+data = data.frame(
+  ID = as.numeric(leinster$healthcentre_id),
+  longitude = as.numeric(leinster$long_xcord),
+  latitude = as.numeric(leinster$lat_ycord)
+)
+
+#Create a pop up for each point on the map
+map_popup <- paste0("<strong>HSE Support Centre: </strong>",
+                    leinster$`Service name`,
+                    "<br><strong>Services Provided: </strong>", 
+                    leinster$`Service name`, 
+                    "<br><strong>Address: </strong>", 
+                    leinster$Address)
+
+map_popup2 <- paste0("<strong> Area Name: </strong>",
+                     shapeData$EDNAME,
+                     "<br><strong>Population: </strong>", 
+                     shapeData$TOTAL2011,
+                     "<br><strong>County: </strong>", 
+                     shapeData$COUNTYNAME)
+
+
+#Create Leaflet map
+map <- leaflet()  %>% addTiles() %>% 
+  setView(lng = -7.1050, lat=53.2000,zoom=8) %>% 
+  
+  addPolygons(data=shapeData,weight=1, popup = map_popup2, fillOpacity = 0.5, 
+              color = ~colorQuantile("YlOrRd", shapeData$TOTAL2011)(TOTAL2011)) %>% 
+  
+  addCircleMarkers(data = leinster, lng = ~long_xcord, 
+                   lat = ~lat_ycord, radius=.5, color="green") %>%
+  
+  addCircles(data = leinster, lng = ~long_xcord, 
+             lat = ~lat_ycord, popup = map_popup,
+             radius = 4828.03, fillOpacity = 0.2, #3218.69 = 2 miles
+             color = 'black', fillColor = 'blue',weight = 3, label=leinster$`Service name`)
+
+#Print the map
+print(map)
+
+

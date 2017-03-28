@@ -5,6 +5,10 @@
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
+<%@page import = " java.io.File,
+ javax.swing.ImageIcon,
+ rcaller.RCaller,
+ rcaller.RCode;"%>
 <!DOCTYPE html>
 <html>
     <head>
@@ -44,7 +48,7 @@
             <tr>
                 <td>
             <center>
-                <a href="chart.jsp" class="myButton">Disabilities By County</a>
+                <a href="jspChart.jsp" class="myButton">Show Chart</a>
             </center>
             </td>
             </tr>
@@ -54,6 +58,7 @@
                 <a href="index.jsp" class="myButton">Return</a>
             </center>
             </td>
+            
             </tr>
             </tbody>
         </table></center>
